@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Profile</title>
+</head>
+<body>
+    <h1>User Profile</h1>
+    
+    {% if user %}
+        <p><strong>User ID:</strong> {{ user.zID }}</p>
+        <p><strong>First Name:</strong> {{ user.firstname }}</p>
+        <p><strong>Last Name:</strong> {{ user.lastname }}</p>
+        
+        <h2>Edit Profile</h2>
+        <form method="POST">
+            <label for="new_firstname">New First Name:</label>
+            <input type="text" id="new_firstname" name="new_firstname"><br>
+
+            <label for="new_lastname">New Last Name:</label>
+            <input type="text" id="new_lastname" name="new_lastname"><br>
+
+            <input type="submit" value="Update Profile">
+        </form>
+        
+        <p><a href="/logout">Logout</a></p>
+    {% else %}
+        <p><strong>Error:</strong> User not found.</p>
+    {% endif %}
+</body>
+</html>

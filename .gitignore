@@ -1,0 +1,7 @@
+
+node_modules/*
+backend/app/myenv/*
+backend/app/env/*
+*.pyc
+backend/app/requirements.txt
+*.pyc

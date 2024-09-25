@@ -1,0 +1,2391 @@
+ACCT5906 Financial Literacy for Business Decisions
+ACCT5907 International Financial Statement Analysis
+ACCT5908 Auditing and Assurance Services
+ACCT5909 Current Developments in Auditing Research
+ACCT5910 Business Analysis and Valuation
+ACCT5919 Business Risk Management
+ACCT5920 Managing Intangible Resources
+ACCT5925 ESG Reporting and Enterprise Value Creation
+ACCT5930 Financial Accounting
+ACCT5931 Sustainable Management Accounting
+ACCT5935 CPA Ethics and Governance
+ACCT5936 CPA Financial Reporting
+ACCT5937 CPA Strategic Management Accounting
+ACCT5938 CPA Global Strategy and Leadership
+ACCT5939 CPA Advanced Audit and Assurance
+ACCT5942 Corporate Accounting and Regulation
+ACCT5943 Advanced Financial Reporting
+ACCT5945 CPA Contemporary Business Issues
+ACCT5946 CPA Financial Risk Management
+ACCT5947 CPA Digital Finance
+ACCT5948 CPA Australia Taxation
+ACCT5949 Managing Agile Organisations
+ACCT5950 CPA Australia Taxation - Advanced
+ACCT5951 Current Developments in Accounting Research - Financial
+ACCT5952 Current Developments in Accounting Research - Managerial
+ACCT5955 Management Control Systems in Contemporary Contexts
+ACCT5961 Reporting for Climate Change and Sustainability
+ACCT5967 Special Topic in Accounting
+ACCT5972 Accounting Analytics for Business Decision Making
+ACCT5975 CA Module Financial Accounting & Reporting
+ACCT5976 CA Module Audit & Assurance
+ACCT5977 CA Module Management Accounting & Applied Finance 
+ACCT5978 CA Module Taxation Australia 
+ACCT5982 CA Module Capstone
+ACCT5995 Fraud Examination Fundamentals
+ACCT5996 Management Accounting and Business Analysis
+ACCT5997 Seminar in Research Methodology
+ACCT5998 Project Seminar
+ACCT5999 Project Report
+ACTL5004 Project Report - Actuarial Studies
+ACTL5100 Actuarial Theory and Practice  A
+ACTL5101 Probability and Statistics for Actuaries
+ACTL5102 Financial Mathematics
+ACTL5103 Stochastic Modelling for Actuaries
+ACTL5104 Survival Analysis and Prediction of Life and Health Related Risks
+ACTL5105 Life Insurance and Superannuation
+ACTL5106 Insurance Risk Models
+ACTL5108 Finance and Financial Reporting for Actuaries
+ACTL5109 Financial Economics for Insurance and Superannuation
+ACTL5110 Statistical Machine Learning for Risk and Actuarial Applications
+ACTL5111 Artificial Intelligence and Deep Learning Models for Risk and Insurance
+ACTL5200 Actuarial Theory and Practice B
+ACTL5301 Quantitative Risk Management Techniques
+ACTL5302 Risk and Capital Management
+ACTL5305 Actuarial Data Science Applications
+ACTL6103 Advanced Topics in Risk and Actuarial Studies A
+ACTL6104 Advanced Topics in Risk and Actuarial Studies B
+ACTL6105 Advanced Topics in Risk and Actuarial Studies C
+ADAD9110 3D Visualisation Studio
+ADAD9113 Communication Skills for Creative Disciplines
+ADAD9114 Research Foundations in Art and Design
+ADAD9115 Internship
+ADAD9116 Research Paper
+ADAD9311 Designing the Experience: Exhibitions and Beyond
+ADAD9312 Leadership in the Cultural and Creative Industries
+ADAD9406 Creative Experimentation
+AERO9500 Space Systems Architectures and Orbits
+AERO9610 The Space Segment
+AERO9660 Advanced Aerospace Propulsion
+AGSM6131 Leadership
+AGSM6143 Strategy
+AGSM6210 Accounting and Financial Management
+AGSM6234 Data Analytics and Decision-making
+AGSM6251 Marketing Management
+AGSM6275 Managing People and Organisations
+AGSM6321 Corporate Finance
+AGSM9101 Project Management
+AGSM9122 Economics in Management Practice
+AGSM9127 Supply Chain Management
+AGSM9132 Corporate Innovation
+AGSM9136 Silicon Valley Study Tour
+AGSM9137 Advanced Finance
+AGSM9138 Financial Analysis
+AGSM9139 Entrepreneurial Finance
+AGSM9140 Global Finance
+AGSM9141 Mergers and Acquisitions
+AGSM9142 Financial Modelling
+AGSM9150 Digital Innovation
+AGSM9151 Law, Regulation and Ethics
+AGSM9152 Digital Strategy
+AGSM9153 Implementing Strategy
+AGSM9154 Managing with Digital Technology
+AGSM9155 Strategic Consulting Project
+AGSM9156 Entrepreneurship and Innovation
+AGSM9157 Financial Strategy
+AGSM9158 Special Topics in Management
+AGSM9160 Transformative Technologies, AI and the Digital Economy
+AGSM9161 Sustainable and Inclusive Business
+AGSM9162 Decarbonisation and Transition to Clean Energy
+AGSM9163 Sustainable Governance and Reporting
+AGSM9164 Sustainable Business Models and Value Chains
+AGSM9202 Individual Research Project
+AGSM9233 Operations Management
+AGSM9271 Approaches to Change
+AGSM9272 Change Skills
+AGSM9274 Systems for Change
+AGSM9303 AGSM Masterclass
+AGSM9370 Foundations of Managerial Skills
+AGSM9583 International Business Experience
+AGSM9712 Negotiation Skills
+ARCH7111 Architectural Design Studio 1
+ARCH7112 Integrated Design Studio 1
+ARCH7113 Integrated Design Studio 2
+ARCH7161 Advanced Construction and Structures
+ARCH7182 The Profession of Architecture
+ARCH7183 Professional Practice 2: Projects and Practice
+ARCH7201 Research Studio
+ARCH7202 Major Design Studio
+ARCH7211 Research Studio
+ARCH7212 Research Studio
+ARCH7213 Performance over Time of Building Systems
+ARCH7214 Architecture and Politics
+ARCH7215 Advanced Themes in Australian Architecture
+ARCH7216 Designing Diversity: Architecture and Urbanism in a Multicultural Context
+ARCH7218 Urban Climate Change - Mitigation and Adaptation in the Urban Built Environment
+ARCH7219 Graduation Exhibition Design
+ARCH7220 Architecture and Urbanism in Asia
+ARCH7223 Elements of Architectural Design
+ARCH7227 A History of Housing
+ARCH7231 Research Studio
+ARCH7241 Research Studio
+ARCH7251 Major Design Studio
+ARCH7252 Major Design Studio
+ARCH7253 Major Design Studio
+ARCH7254 Major Design Studio
+ARCH7304 Architecture and the City
+ARCH7809 Architectural Environment & Building Services
+ARCH9006 Special Program (Architecture)
+ARTS5100 Research Methods
+ARTS5503 Academic Writing for the Humanities
+ARTS5505 Personalised English Language Enhancement
+ARTS5506 Indigenous Languages of Australia
+AVIA5001 Law and Regulations in Aviation
+AVIA5003 Aviation and Security
+AVIA5004 Aviation Safety and Accident Prevention
+AVIA5005 Airline Operational Management
+AVIA5006 Airport Planning
+AVIA5007 Airport Operations Management
+AVIA5008 Air Traffic Management
+AVIA5009 Airline Corporate Management
+AVIA5015 Safety Management Systems
+AVIA5017 Human Factors in Transportation Safety
+AVIA5018 Aviation Human Factors
+AVIA5020 Aviation Research Project
+AVIA5022 Aircraft Accident Investigation Techniques
+AVIA5024 Flight Deck Operations for Advanced Transport-Aircraft
+AVIA5030 Aviation, Tourism and Sustainable Development
+AVIA5032 Quantitative Analysis in Aviation Economics
+AVIA5035 Airport Economics, Management and Policy
+AVIA5037 Airline Operations and Delay Management
+AVIA5039 Airworthiness for Transport Category Aircraft
+AVIA5040 Safety Risk Management
+AVIA9101 Safety Risk Management: Human Performance
+AVIA9201 Safety Risk Management: Physical Hazards
+AVIF5915 Airline Pilot Multi-Crew Coordination
+AVIF5916 Aeroplane Systems for Airline Pilots
+AVIG5911 Flying Operations 1
+AVIG5912 Flying Operations 2
+AVIG5913 Flying Operations 3
+AVIG5914 Flying Operations 4
+BABS3151 Human Molecular Genetics and Disease
+BABS5019 Research Project (6 UOC)
+BABS5029 Research Project (12 Units of Credit)
+BABS5039 Research Project (18 Units of Credit)
+BABS7180 Research Techniques
+BABS8010 Advanced Topics in Biotechnology and Biomolecular
+BEES5041 Data Analysis: Environmental Science & Management
+BEES6601 An Introduction to the Sydney Environment
+BEES6741 Astrobiology: Life in the Universe
+BEES6800 The Science of Science Communication
+BEES9011 Essential Skills for Research Students (Post-Graduate Students Only)
+BEES9041 Big Data in the Biological, Earth and Environmental Sciences
+BEIL6000 Mapping Social Justice in the City
+BEIL6001 International Planning
+BEIL6002 Urban and Regional Design
+BEIL6003 Cinematic Space
+BEIL6005 Researching Art, Architecture and Design
+BEIL6006 Heritage Planning
+BEIL6007 International Study Tour
+BEIL6008 International Design Studio
+BEIL6009 Sydney Opera House: Designing and Building an Icon
+BEIL6010 Sydney Urban Lab
+BEIL6011 Street Life Studies: Cambodia
+BEIL6013 BE Nomad
+BENV6713 Architectural Spatialisation
+BENV7020 Research Design
+BENV7307 Writing the City
+BENV7500 Programmable Cities
+BENV7501 Urban Data Visualisation
+BENV7502 Geodesign
+BENV7503 Geocomputation
+BENV7504 Digital Cities
+BENV7550 Smart Cities and Urban Informatics Major Project
+BENV7712 Healthy Built Environments
+BENV7728 Geographical Information Systems and Urban Informatics
+BENV7800 Digital Documentation
+BENV7806 Design and Technology-Timber
+BENV7811 Urban Renewal
+BENV7813 Contemporary Fabrication Techniques
+BINF6111 Genome Informatics Engineering Design Workshop
+BINF6112 Computational Biology Engineering Design Workshop
+BINF9010 Applied Bioinformatics
+BINF9020 Computational Bioinformatics
+BIOM9020 Masters Project (Half Time)
+BIOM9021 Masters Project (Half Time)
+BIOM9027 Medical Imaging
+BIOM9311 Mass Transfer in Medicine
+BIOM9332 Biocompatibility
+BIOM9333 Cellular and Tissue Engineering
+BIOM9410 Regulatory Requirements of Biomedical Technology
+BIOM9420 Clinical Laboratory Science
+BIOM9450 Biomedical and Health Informatics
+BIOM9541 Mechanics of the Human Body
+BIOM9551 Rehabilitation Engineering and Assistive Technology
+BIOM9561 Mechanical Properties of Biomaterials
+BIOM9621 Biological Signal Analysis
+BIOM9640 Biomedical instrumentation
+BIOM9650 Biosensors and Transducers
+BIOM9660 Bionics and Neuromodulation
+BIOM9701 Dynamics of the Cardiovascular System
+BIOM9711 Modelling Organs, Tissues and Devices
+BIOM9811 Applications of Light in Engineering, Technology and the Life Sciences
+BIOM9910 Health Technology Innovation: Clinical Immersion
+BIOM9914 Masters Project
+BIOS6671 Biodiversity and Conservation of Natural Resources
+BIOS9231 Research Internship in Marine Terrestrial Conservation
+CDEV6000 Partnered Work Project
+CDEV6100 Partnered Work Project (Online)
+CDEV6200 Global Partnered Work Project
+CDEV6500 Future Leader Lab
+CEIC3004 Process Equipment Design
+CEIC4000 Environment and Sustainability
+CEIC4954 Research Thesis Extension
+CEIC6711 Complex Fluids Microstructure and Rheology
+CEIC6712 Pharmaceutical Design and Engineering
+CEIC6713 Industry Wastewater Processing in the Context of Environmental, Social and Governance Frameworks
+CEIC6714 Hydrogen Systems Engineering and Economics
+CEIC6789 Data-driven Decision Making in Chemical Engineering and Food Science
+CEIC8102 Advanced Process Control
+CEIC8104 Topics in Polymer Technology
+CEIC8105 Advanced Polymer Science and Research
+CEIC8204 Entrepreneurship and the Innovation Cycle 
+CEIC8330 Process Engineering in the Petroleum Industry
+CEIC8341 Membrane Processes
+CEIC9005 Advanced Thesis
+CEIC9007 Product Research and Design Project A
+CEIC9008 Product Research and Design Project B
+CEIC9451 Postgraduate Research Project A
+CEIC9452 Postgraduate Research Project B
+CEIC9951 Advanced Research Thesis A
+CEIC9952 Advanced Research Thesis B
+CEIC9953 Advanced Research Thesis C
+CHEM6701 Topics in Contemporary Chemistry A
+CHEM7001 Chemical Safety & Legislation
+CHEM7119 Research Skills
+CHEM7998 Special Project in Chemistry
+CHEN6701 Advanced Reaction Engineering
+CHEN6703 Advanced Particle Systems Engineering
+CHEN6706 Advanced Transport Phenomena
+CLIM6001 Climate Systems Science
+COMD0506 Special Program
+COMD5000 NGOs, Civil Society and Development
+COMD5001 International Development Policy
+COMD5002 Development, Human Rights and Global Health
+COMD5004 Climate Change Adaptation & Development
+COMM5000 Data Literacy for Business
+COMM5005 Quantitative Methods for Business
+COMM5007 Coding for Business
+COMM5008 Enterprise Skills
+COMM5010 Strategy, Marketing and Management
+COMM5020 Global Business Practicum
+COMM5022 Industry Experience Program
+COMM5030 Social Entrepreneurship Practicum
+COMM5040 Entrepreneurial Ecosystems
+COMM5044 Future of Work Project
+COMM5201 Business for Social Impact
+COMM5202 Social and Environmental Sustainability
+COMM5203 Social and Environmental Outcomes Measurement
+COMM5204 Investing for Local and Global Impact
+COMM5205 Leading Change for Sustainability
+COMM5501 Data Visualisation and Communication
+COMM5601 Interdisciplinary Applications of Analytics Techniques
+COMM5615 Systems Thinking and Business Dynamics
+COMM5701 Social Impact
+COMM5703 Social Impact Investment
+COMM5704 Demonstrating Social Impact
+COMM5706 Design for Social Innovation
+COMM5707 Social Impact Field Project
+COMM5709 Corporate Responsibility and Accountability
+COMM5710 Creating Shared Value
+COMM5713 Collaboration for Social Impact
+COMM5714 Social Impact Capstone
+COMM5902 Leadership for Social Impact
+COMM5999 myMCom Graduate Portfolio
+COMM6700 Business Nomad
+COMM8100 Foundations of Business Research
+COMM8101 Statistical Methods for Business Research
+COMM8102 Econometric Analysis
+COMM8103 Business Research Project Seminar
+COMP4121 Advanced Algorithms
+COMP4128 Programming Challenges
+COMP4141 Theory of Computation
+COMP4161 Advanced Topics in Software Verification
+COMP4418 Knowledge Representation and Reasoning
+COMP4431 Game Design Workshop
+COMP4511 User Interface Design and Construction
+COMP6080 Web Front-End Programming
+COMP6131 Static Analysis for Software Security
+COMP6441 Security Engineering and Cyber Security
+COMP6443 Web Application Security and Testing
+COMP6445 Digital Forensics
+COMP6447 System and Software Security Assessment
+COMP6448 Security Engineering Masterclass
+COMP6451 Cryptocurrency and Distributed Ledger Technologies
+COMP6452 Software Architecture for Blockchain Applications
+COMP6453 Applied Cryptography
+COMP6713 Natural Language Processing
+COMP6714 Information Retrieval and Web Search
+COMP6721 (In-)Formal Methods: The Lost Art
+COMP6733 Internet of Things Experimental Design Studio
+COMP6741 Algorithms for Intractable Problems
+COMP6752 Modelling Concurrent Systems
+COMP6771 Advanced C++ Programming
+COMP6841 Extended Security Engineering and Cyber Security
+COMP6843 Extended Web Application Security and Testing
+COMP6845 Extended Digital Forensics and Incident Response
+COMP6991 Solving Modern Programming Problems with Rust
+COMP9020 Foundations of Computer Science
+COMP9021 Principles of Programming
+COMP9024 Data Structures and Algorithms
+COMP9032 Microprocessors and Interfacing
+COMP9044 Software Construction: Techniques and Tools
+COMP9101 Algorithm Design and Analysis
+COMP9102 Programming Languages and Compilers
+COMP9153 Algorithmic Verification
+COMP9154 Foundations of Concurrency
+COMP9164 Concepts of Programming Languages
+COMP9201 Operating Systems
+COMP9211 Computer Architecture
+COMP9222 Digital Circuits and Systems
+COMP9242 Advanced Operating Systems
+COMP9243 Distributed Systems
+COMP9283 Extended Operating Systems
+COMP9301 Cyber Security Project
+COMP9302 Cyber Security Project B
+COMP9311 Database Systems
+COMP9312 Data Analytics for Graphs
+COMP9313 Big Data Management
+COMP9315 Database Systems Implementation
+COMP9319 Web Data Compression and Search
+COMP9321 Data Services Engineering
+COMP9331 Computer Networks and Applications
+COMP9332 Network Routing and Switching
+COMP9334 Capacity Planning of Computer Systems and Networks
+COMP9336 Mobile Data Networking
+COMP9337 Securing Fixed and Wireless Networks
+COMP9414 Artificial Intelligence
+COMP9415 Computer Graphics
+COMP9417 Machine Learning and Data Mining
+COMP9418 Advanced Topics in Statistical Machine Learning
+COMP9434 Robotic Software Architecture
+COMP9444 Neural Networks and Deep Learning
+COMP9447 Security Engineering Workshop
+COMP9491 Applied Artificial Intelligence
+COMP9511 Human Computer Interaction
+COMP9517 Computer Vision
+COMP9727 Recommender Systems
+COMP9801 Extended Algorithm Design and Analysis
+COMP9814 Extended Artificial Intelligence
+COMP9900 Information Technology Project
+COMP9991 Research Project A
+COMP9992 Research Project B
+COMP9993 Research Project C
+CONS0002 Management of Construction Organisations
+CONS0005 Construction Informatics
+CONS0009 Construction Planning and Control
+CONS0010 Construction Contract Administration
+CONS0013 Construction Management Theory and Practice
+CONS0016 Construction Risk Management and Business Analytics
+CONS0023 Construction Cost and Value Management
+CONS0025 Infrastructure Planning, Procurement and Finance
+CRIM5000 Criminal Justice Research Thesis
+CVEN3303 Steel Structures
+CVEN3304 Concrete Structures
+CVEN3701 Environmental Frameworks, Law and Economics
+CVEN4102 Operations and Projects
+CVEN4103 Engineering Contracts
+CVEN4104 Sustainability in Construction
+CVEN4201 Rock and Slope Engineering
+CVEN4202 Advanced Topics in Geotechnical Engineering
+CVEN4204 Ground Improvement and Monitoring Techniques
+CVEN4301 Advanced Concrete Structures
+CVEN4308 Structural Dynamics
+CVEN4309 Sustainable Timber Engineering
+CVEN4402 Transport Systems - Part 1: Network Analysis
+CVEN4404 Fundamentals of Traffic Engineering
+CVEN4503 Groundwater Resource Investigation
+CVEN4507 Advanced Water Engineering
+CVEN4703 Advanced Water Quality Principles
+CVEN4705 Environmental Sustainability - Methods, Tools, Management
+CVEN4800 Satellite Remote Sensing and Applications
+CVEN9000 Civil and Environmental Engineering Design Practice
+CVEN9050 Masters Practice Project A
+CVEN9051 Masters Practice Project B
+CVEN9405 Urban Transport Planning Practice
+CVEN9407 Transport Modelling
+CVEN9415 Transport Systems Part 2
+CVEN9421 Transport Logistics Engineering
+CVEN9422 Traffic Management and Control
+CVEN9451 Masters Project A
+CVEN9452 Masters Project B
+CVEN9453 Masters Project C
+CVEN9511 Geotechnical Models and Site Investigation
+CVEN9512 Geomechanics
+CVEN9513 Advanced Foundation Engineering
+CVEN9521 Slope Instability and Stabilisation
+CVEN9522 Rock Engineering
+CVEN9524 Geotechnical Engineering of Dams
+CVEN9525 Fundamentals of Geomechanics
+CVEN9526 Earthquake Engineering and Foundation Dynamics
+CVEN9531 Unsaturated Soil Mechanics
+CVEN9611 Urban Hydrology and Stormwater Management
+CVEN9612 Catchment and Water Resources Modelling
+CVEN9620 Rivers, Estuaries and Wetlands
+CVEN9625 Fundamentals of Water Engineering
+CVEN9630 Groundwater Hydrology and Resources Analysis
+CVEN9640 Coastal Engineering
+CVEN9701 Engineering Economics and Financial Management
+CVEN9702 Project Planning and Control
+CVEN9710 Management of Risk
+CVEN9723 Design of Construction Operations
+CVEN9731 Project Management Framework
+CVEN9741 Engineering Construction
+CVEN9742 Professional Civil Engineering
+CVEN9743 Construction Engineering Practices
+CVEN9744 Civil Engineering Practices
+CVEN9802 Structural Stability
+CVEN9806 Prestressed Concrete Design
+CVEN9809 Reinforced Concrete Design
+CVEN9818 Bridge Engineering
+CVEN9820 Computational Structural Mechanics
+CVEN9822 Steel and Composite Structures
+CVEN9824 Advanced Materials Technology
+CVEN9826 Advanced Mechanics of Structures and Materials
+CVEN9840 Structural Health Monitoring Fundamentals and Practices
+CVEN9855 Water and Wastewater Analysis and Quality Requirements
+CVEN9856 Water Treatment
+CVEN9857 Wastewater Treatment
+CVEN9872 Solid Waste Management
+CVEN9881 Hazardous Waste Management
+CVEN9884 Environmental Chemical and Microbial Processes
+CVEN9885 Transport and Transformation of Contaminants
+CVEN9886 Environmental Microbial Processes
+CVEN9887 Environmental Chemical Processes
+CVEN9888 Environmental Management
+CVEN9892 Sustainability Assessment and Risk Analysis
+CVEN9898 Fundamentals of Sustainable Infrastructure
+CVEN9901 Special Topic in Civil and Environmental Engineering
+CVEN9931 Masters Project A
+CVEN9932 Masters Project B
+DART9001 Animation Studio
+DART9002 VFX Studio
+DART9003 Industry Studio
+DART9004 Production Studio
+DART9005 Capstone Studio
+DART9101 Motion Capture Studio
+DART9102 Rigging Studio
+DART9103 Creature Studio
+DART9104 Procedural FX Studio
+DART9105 Real-Time Studio
+DART9106 Digital Cinematography Studio
+DART9200 Major Exhibitions and Events
+DART9300 Digital Aesthetics
+DATA5002 Data Visualisation
+DATA5011 Data Science and Decisions Project A
+DATA5012 Data Science and Decisions Project B
+DATA9001 Fundamentals of Data Science
+DDES9010 Design Concepts and Communication
+DDES9011 Histories and Theories for Design
+DDES9012 Critical Approaches to Design
+DDES9013 Designing in Context
+DDES9014 Imperatives for a Sustainable Future
+DDES9015 Creativity and Entrepreneurship
+DDES9016 Design Studio Project 1: Proposal
+DDES9017 Design Studio Project 2: Final Design
+DDES9121 Textiles: Contemporary Studio
+DDES9122 Jewellery: Contemporary Studio
+DDES9123 Furniture and Lighting: Contemporary Studio
+DDES9124 Hybrid Crafting: New Technologies, Traditional Techniques
+DDES9125 Material Thinking
+DDES9131 Transforming the Everyday: Domestic Futures
+DDES9132 Participatory Design for Commercial Contexts
+DDES9133 Urban Intervention: People, Places and Cultural Contexts
+DDES9141 Graphic Design Foundations
+DDES9142 Typographic Design
+DDES9143 Graphic Design and Society
+DDES9144 Graphic Design for User Interfaces
+DDES9151 Interaction Design Foundations
+DDES9152 Human-Centred User Experience Methods
+DDES9153 Tangible Interfaces and Interactive Displays
+DDES9154 Wearable and Bio-Sensing Interactions
+DDES9161 Vision, Strategy and Design Leadership
+DDES9162 Leadership and Interdisciplinary Teams
+DDES9901 Designing and Experiencing Immersion
+DDES9902 Human Dimensions in Immersive Environments
+DDES9903 Narrative and Sensemaking in Immersive Environments
+DDES9904 Models, Systems and Solution Design
+DDES9905 Immersive Design, Complexity and Wicked Problems
+DDES9911 Future Immersive Learning Methodologies
+DDES9914 Managing Immersive Projects
+DDES9920 Information Architecture for Immersive Aesthetics
+DDES9991 Visualisation, Simulation, and Immersive Design Capstone
+DIET4001 Clinical Dietetics and Counselling 1
+DIET4002 Clinical Dietetics and Counselling 2
+DIET4003 Clinical Dietetics and Counselling 3
+DIET5001 Dietetics Placement A
+DIET5002 Dietetics Placement B
+ECON5101 Microeconomics
+ECON5102 Macroeconomics
+ECON5103 Business Economics
+ECON5106 Economics of Finance
+ECON5111 Economics of Strategy
+ECON5205 Econometrics
+ECON5206 Financial Econometrics
+ECON5210 Reflections on Practicum through the Economist’s Lens
+ECON5248 Business Forecasting
+ECON5258 Introductory Economics and Data Analysis for Business Professionals
+ECON5300 Advanced Microeconomic Analysis
+ECON5301 Markets and Frictions
+ECON5304 International Macroeconomics
+ECON5306 Politics and Economics
+ECON5310 Development Economics
+ECON5316 International Trade Theory and Policy
+ECON5321 Industrial Organisation
+ECON5323 Organisational Economics
+ECON5324 Behavioural Economics
+ECON5327 Environmental Economics
+ECON5403 Econometric Theory and Methods
+ECON5408 Applied Econometric Methods
+ECON6004 Mathematical Economics
+ECON6201 Advanced Econometric Theory and Methods
+ECON6202 Policy Evaluation Methods
+ECON6307 Health Economics
+ECON6309 Economic Measurement
+ECON6312 Policy Applications of Behavioural Economics
+ECON6313 Public Economics and Regulation
+ECON6314 Economic Development in China
+ECON7001 Microeconomic Theory I
+ECON7002 Macroeconomic Theory I
+ECON7004 Mathematical Economics
+ECON7101 Microeconomic Theory II
+ECON7102 Macroeconomic Theory II
+ECON7201 Advanced Econometric Theory and Methods
+ECON7202 Policy Evaluation Methods
+ECON7204 Macroeconometrics
+ECON7301 Industrial Organisation
+ECON7302 International Economics
+ECON7303 Labour Economics
+ECON7307 Health Economics
+ECON7309 Economic Measurement
+ECON7310 Experimental and Behavioural Economics
+ECON7311 Development and Political Economics
+ECON7350 Special Topics in Economics
+EDST5101 Advanced Quantitative Research
+EDST5106 Advanced Behaviour Support Strategies
+EDST5107 Teaching Methods for High Incidence Disabilities
+EDST5111 Intellectual Disabilities
+EDST5112 Learning: Psychological and Social Perspectives
+EDST5113 Students on the Autism Spectrum
+EDST5114 Curriculum and Assessment
+EDST5115 Indigenous Contexts of Education
+EDST5116 Student Engagement
+EDST5117 Professional Inquiry
+EDST5118 Professional Practice for Special Education
+EDST5120 Advanced Qualitative Research
+EDST5127 Coaching and Mentoring in Educational Leadership
+EDST5129 Transitions in the Lives of Students with Disabilities
+EDST5131 Oral Communication Across the Curriculum
+EDST5133 Creating Engaging Learning Environments
+EDST5134 Addressing Special Needs
+EDST5138 Inclusive Education: Policy, Planning and Pedagogy
+EDST5139 Language, Literacy and Numeracy
+EDST5140 Critical Issues and Practice in Visual Arts Education
+EDST5141 Critically Engaging with Indigenous Education
+EDST5142 Education in Context
+EDST5147 Thesis Writing and Presentation
+EDST5150 Teacher Language Awareness
+EDST5151 Child Development: Psychological & Social Perspectives
+EDST5303 Learning, Problem Solving, and the Development of Expertise
+EDST5306 Human Development and Education
+EDST5308 Teacher Learning
+EDST5314 Building Resilience in the Workplace
+EDST5320 Individual Differences and Education
+EDST5321 Motivation in Educational Settings
+EDST5325 TESOL Advanced Professional Practice
+EDST5433 Organisation Theory in Education
+EDST5436 Evaluation of Educational Programs
+EDST5438 Leadership Theory, Research and Practice
+EDST5440 Advanced TESOL Methodology
+EDST5441 Advanced TESOL Curriculum Design and Assessment
+EDST5442 Advanced Professional Practice
+EDST5443 Assessment for Learning: From Theory to Practice
+EDST5448 Educational Research
+EDST5451 Educational Policy: Theory and Practice
+EDST5452 Contemporary Issues in Language Education
+EDST5454 Developing Literacies: From Kindergarten to University
+EDST5457 Literature Review in Education
+EDST5458 Researching Special Education
+EDST5460 Specialist Study in Education
+EDST5462 Teacher Leadership
+EDST5608 Instructional Leadership
+EDST5802 Identification of Gifted Students
+EDST5803 Developing Effective Programs for Gifted Students
+EDST5805 Curriculum Differentiation and Assessment in Gifted Education
+EDST5806 Creativity and Giftedness
+EDST5807 Social and Emotional Development of Intellectually Gifted Children
+EDST5808 Key Concepts and Issues in Gifted Education
+EDST5888 Capstone Professional Inquiry Project
+EDST5889 Minor Thesis
+EDST6700 Chinese Method 1
+EDST6701 Drama Method 1
+EDST6702 English Method 1
+EDST6704 English as an Additional Language or Dialect Method 1
+EDST6705 French Method 1
+EDST6706 Geography Method 1
+EDST6707 German Method 1
+EDST6710 Indonesian Method 1
+EDST6711 Japanese Method 1
+EDST6714 Spanish Method 1
+EDST6715 Business Studies Method 1
+EDST6716 Economics Method 1
+EDST6717 Aboriginal Studies Method 1
+EDST6718 Korean Method 1
+EDST6719 Legal Studies Method 1
+EDST6722 Society and Culture Method 1
+EDST6723 Extension English Method 1
+EDST6725 Mathematics Method 1
+EDST6726 Extension Mathematics Method 1
+EDST6727 Music Method 1
+EDST6728 Extension Music Method 1
+EDST6730 Chinese Method 2
+EDST6731 Drama Method 2
+EDST6732 English Method 2
+EDST6734 English as an Additional Language or Dialect Method 2
+EDST6735 French Method 2
+EDST6736 Geography Method 2
+EDST6737 German Method 2
+EDST6740 Indonesian Method 2
+EDST6741 Japanese Method 2
+EDST6744 Spanish Method 2
+EDST6745 Business Studies Method 2
+EDST6746 Economics Method 2
+EDST6747 Aboriginal Studies Method 2
+EDST6748 Korean Method 2
+EDST6749 Legal Studies Method 2
+EDST6752 Society and Culture Method 2
+EDST6753 Extension English Method 2
+EDST6755 Mathematics Method 2
+EDST6756 Extension Mathematics Method 2
+EDST6757 Music Method 2
+EDST6758 Extension Music Method 2
+EDST6760 Professional Experience 1
+EDST6761 Professional Experience 2/Internship
+EDST6765 Professional Experience 2/Internship
+EDST6771 Graphics and Multimedia Technology Method 1
+EDST6772 Graphics and Multimedia Technology Method 2
+EDST6775 Visual Arts Method 1
+EDST6776 Visual Arts Method 2
+EDST6777 Extension Visual Arts Method 1
+EDST6778 Extension Visual Arts Method 2
+EDST6779 Mathematics 1 (Years K-2)
+EDST6780 Mathematics 2 (3-6)
+EDST6781 Teaching English in K-6
+EDST6782 Early Reading Instruction
+EDST6783 History and Geography (K-6)
+EDST6784 Science and Technology (K-6)
+EDST6785 Personal Development, Health and Physical Education (K-6)
+EDST6786 Creative Arts (K-6)
+EDST6920 Ancient History Method 1
+EDST6921 Modern History Method 1
+EDST6922 Science Method 1
+EDST6923 Physics Method 1
+EDST6924 Earth and Environmental Science Method 1
+EDST6925 Chemistry Method 1
+EDST6926 Biology Method 1
+EDST6927 Chemistry/Biology Method 1
+EDST6950 Ancient History Method 2
+EDST6951 Modern History Method 2
+EDST6952 Science Method 2
+EDST6953 Physics Method 2
+EDST6954 Earth and Environmental Science Method 2
+EDST6955 Chemistry Method 2
+EDST6956 Biology Method 2
+EDST6957 Chemistry/Biology Method 2
+EDST6958 Investigating Science Method
+ELEC2911 Power Engineering for Renewable Energy
+ELEC4601 Digital and Embedded Systems Design
+ELEC4602 Microelectronic Design and Technology
+ELEC4603 Solid State Electronics
+ELEC4604 RF Circuit Design - Theory and Applications
+ELEC4605 Quantum Devices and Computers
+ELEC4611 Power System Equipment
+ELEC4612 Power System Analysis
+ELEC4613 Electrical Drive Systems
+ELEC4614 Power Electronics
+ELEC4617 Power System Protection
+ELEC4621 Advanced Digital Signal Processing
+ELEC4622 Multimedia Signal Processing
+ELEC4623 Biomedical Instrumentation, Measurement and Design
+ELEC4631 Continuous - Time Control System Design
+ELEC4632 Computer Control Systems
+ELEC4633 Real-Time Engineering
+ELEC9120 Master of Engineering Project A
+ELEC9121 Master of Engineering Project B
+ELEC9123 Design Proficiency
+ELEC9355 Optical Communications Systems
+ELEC9451 Masters Project A
+ELEC9452 Masters Project B
+ELEC9453 Masters Project C
+ELEC9701 Mixed Signal Microelectronic Design
+ELEC9702 Radio Frequency Integrated Circuit Design
+ELEC9703 Microsystems Design and Technology
+ELEC9704 VLSI Technology
+ELEC9705 Quantum Devices
+ELEC9711 Power Electronics for Renewable and Distributed Generation
+ELEC9712 High Voltage Systems
+ELEC9713 Industrial and Commercial Power Systems
+ELEC9714 Electricity Industry Planning and Economics
+ELEC9715 Electricity Industry Operation and Control
+ELEC9716 Electrical Safety
+ELEC9719 Real-Time Digital Simulations
+ELEC9721 Digital Signal Processing Theory and Applications
+ELEC9722 Digital Image Processing
+ELEC9723 Speech Processing
+ELEC9725 Satellite Navigation: Systems, Signals & Receivers
+ELEC9731 Robust and Linear Control Systems
+ELEC9732 Analysis and Design of Non-linear Control
+ELEC9733 Real Computing and Control
+ELEC9741 Electrical Engineering Data Science
+ELEC9762 Space Mission Development
+ELEC9764 The Ground Segment and Space Operations
+ELEC9765 Space Law and Radio Regulations
+ELEC9768 Satellite Engineering Project A
+ELEC9769 Satellite Engineering Project B
+ELEC9771 Project Report A
+ELEC9772 Project Report B
+ELEC9781 Special Topics in Electrical Engineering 1
+ELEC9782 Special Topics in Electrical Engineering 2
+ENGG3060 Rehabilitation and Assistive Technology 
+ENGG4600 Engineering Vertically Integrated Project
+ENGG4999 Industrial Training
+ENGG9741 Introduction to Nuclear Engineering
+ENGG9742 Reactor Physics for Engineers
+ENGG9743 Fuel Cycle, Waste and Life Cycle Management
+ENGG9744 Nuclear Safety, Security and Safeguards
+EXPT4100 Exercise Oncology
+EXPT4150 Advanced Neurological Rehabilitation for Physiotherapy
+EXPT4156 Acute Physiotherapy Care
+EXPT4158 Advanced Musculoskeletal Physiotherapy Practice
+EXPT4171 Professional Placement A
+EXPT4173 Professional Placement B
+EXPT4174 Professional Placement C
+EXPT4178 Physiotherapy Clinical Placement 1
+EXPT4300 Complex and Chronic Conditions
+EXPT4310 Professional Placement 1
+EXPT5120 Professional Placement 2
+EXPT5157 Sports Physiotherapy
+EXPT5176 Health Research Project
+EXPT5177 Specialist Physiotherapy Practice
+EXPT5179 Physiotherapy Clinical Placement 2
+EXPT5180 Physiotherapy Clinical Placement 3
+EXPT5181 Physiotherapy Clinical Placement 4
+FADA6700 ADA Professional Placement
+FINS5510 Personal Financial Planning and Client Engagement
+FINS5511 Corporate Finance
+FINS5512 Financial Markets and Institutions
+FINS5513 Investments and Portfolio Selection
+FINS5514 Capital Budgeting and Financial Decisions
+FINS5516 International Corporate Finance
+FINS5517 Applied Portfolio Management and Modelling
+FINS5523 Alternative Asset Classes
+FINS5526 International Corporate Governance: Accounting and Finance Perspectives
+FINS5530 Financial Institution Management
+FINS5531 Personal Risk, Insurance, and Superannuation for Financial Advisers
+FINS5533 Real Estate Finance and Investment
+FINS5535 Derivatives and Risk Management Techniques
+FINS5536 Fixed Income Securities and Interest Rate Derivatives
+FINS5537 Financial Planning Advice and Ethics
+FINS5538 Takeovers, Restructuring and Corporate Governance
+FINS5539 Estate, Retirement Planning and Asset Protection
+FINS5541 Advanced Investment and Advanced Funds Management
+FINS5542 Applied Funds Management
+FINS5544 Sustainable Finance
+FINS5545 Financial Market Data Literacy
+FINS5546 Toolkit for Financial Market Decisions
+FINS5547 Cryptocurrency and Decentralised Finance
+FINS5548 Financial Technology
+FINS5566 Trading in Financial Securities
+FINS5568 Capstone - Portfolio Management Process
+FINS5574 Empirical Asset Pricing
+FINS5576 Asset Pricing Theory
+FINS5577 Empirical Corporate Finance
+FINS5579 Research Methods in Finance 2
+FINS5580 Corporate Finance Theory
+FINS5581 Empirical Corporate Governance
+FINS5590 Finance Research in Practice
+FINS5591 Continuous-Time Finance
+FINS5593 Microstructure of Markets
+FINS5595 Research Workshop in Finance 1
+FINS5596 Research Workshop in Finance 2
+FOOD1747 Special Topics in Chemical Sciences & Engineering
+FOOD5127 Research Project
+FOOD5137 Extension Research Project
+FOOD6804 Food Diagnostics
+FOOD6806 Food Toxicology
+FOOD8010 Food Products and Ingredients Technology
+FOOD8020 Food Properties and Functions Laboratory
+FOOD8030 Food Safety and Quality Assurance
+FOOD8110 Advanced Food Chemistry
+FOOD8220 Nutrition
+FOOD8320 Food Microbiology
+FOOD8403 Advanced and Applied Nutrition
+FOOD8450 Advanced Food Engineering
+FOOD8601 Food Processing Principles
+FOOD8801 Unit Operations in Food Processing
+FOOD9100 Advanced Processing Technologies
+FOOD9102 Sensory Analysis of Foods
+FOOD9103 Advanced Food Microbiology
+FOOD9104 Advanced Food and Health Security
+GEOS6733 Environmental Geophysics
+GEOS9011 Environmental Impact Assessment
+GEOS9012 Remote Sensing Applications
+GEOS9016 Principles of Geographic Information Systems and Science
+GEOS9017 Advanced Geographic Information Systems and Science
+GMAT4220 Geospatial Information Science
+GMAT9205 Fundamentals of Geopositioning
+GMAT9600 Principles of Remote Sensing
+GMAT9606 Microwave Remote Sensing
+GSOE0006 Project 6 Units of Credit
+GSOE0012 Project 12 Units of Credit
+GSOE9010 Engineering Postgraduate Coursework Research Skills
+GSOE9011 Engineering Postgraduate Coursework Research Skills
+GSOE9017 Managing Energy Efficiency
+GSOE9111 Energy Storage
+GSOE9141 Smart Grids and Distribution Networks
+GSOE9142 Energy Efficient Lighting and Equipment
+GSOE9210 Engineering Decision Structures
+GSOE9220 Launching a Startup
+GSOE9340 Life Cycle Engineering
+GSOE9360 Academic Discourse in Engineering
+GSOE9410 Professional Development for Emerging Engineering Educators
+GSOE9445 Entrepreneurial Engineering
+GSOE9510 Ethics and Leadership in Engineering
+GSOE9712 Engineering Statistics and Experiment Design
+GSOE9740 Industrial Ecology and Sustainable Engineering
+GSOE9758 Network Systems Architecture
+GSOE9810 Process and Product Quality in Engineering
+GSOE9820 Engineering Project Management
+GSOE9830 Economic Decision Analysis in Engineering
+GSOE9841 Systems Engineering Fundamentals
+GSOE9997 Engineering Work Related Learning for Postgraduates
+HDAT9000 Clinical Artificial Intelligence
+HDAT9100 Context of Health Data Science
+HDAT9200 Statistical Foundations for Health Data Science
+HDAT9300 Computing for Health Data Science
+HDAT9400 Management and Curation of Health Data
+HDAT9500 Health Data Analytics: Machine Learning I
+HDAT9510 Health Data Analytics: Machine Learning II
+HDAT9600 Health Data Analytics: Statistical Modelling I
+HDAT9700 Health Data Analytics: Statistical Modelling II
+HDAT9800 Visualisation and Communication of Health Data
+HDAT9900 Health Data Science: Dissertation (6 Units of Credit)
+HDAT9901 Health Data Science: Dissertation (12 Units of Credit)
+HDAT9902 Health Data Science: Dissertation (18 Units of Credit)
+HDAT9910 Health Data Science: Capstone
+HLTH4000 Identifying and Solving Clinical Problems
+HLTH5000 Preparing for a Career in Health and Beyond
+HLTH5001 Advanced Research Training
+HLTH5002 Health Research Project A
+HLTH5003 Health Research Project B
+IEST5001 Frameworks of Environmental Relations & Leadership
+IEST5003 Addressing Environmental Issues: Pathways to Change-Making
+IEST5005 Environmental Communication: Culture and Transformation 
+IEST5006 Rethinking Environment: Sociocultural Theory
+IEST5007 Political Ecology: Sustainable Development & Justice
+IEST5008 Large-scale Conservation in Practice
+IEST5021 Corporations, Capitalism, & Transforming Environments
+IEST5022 Environmental Policy and Participation
+IEST5500 Understanding Environmental Policy
+IEST6001 Restorative Ecologies: Permaculture Principles & Practice
+IEST6908 Locating Ecocultural Identities, Spaces, & Places
+IEST6910 Remaking Worlds: Creative & Critical Paradigm Shifts in Environment & Society
+IEST6911 Climate Crisis & Action
+IEST6912 Living Cities: Promises & Risks of Urban Environments
+IEST7001 Engaging Science for Environmental Leadership
+IEST7100 Environmental Management: Economics Fundamentals
+IEST7200 Demystifying Environmental Law: From Regulation to Rights of Nature
+IEST7500 Environmental Technologies: Challenges & Opportunities
+IEST7600 Indigenous Knowledge Partnerships in Conservation & Caring for Country
+IEST8001 Environmental Leadership Practicum I: Project or Internship
+IEST8003 Environmental Leadership Practicum II: Project or Internship
+IEST8021 Research Project in Environmental Leadership
+IEST8023 Research Project/Thesis in Environmental Leadership
+IEST8025 Major Research Project/Thesis in Environmental Leadership
+INFS5602 Digital Capabilities for Business
+INFS5603 Business Analysis and Agile Product Management
+INFS5604 Business Process Management
+INFS5700 Introduction to Business Analytics
+INFS5705 Artificial Intelligence for Business Analytics in Practice
+INFS5710 Information Technology Infrastructure for Business Analytics
+INFS5715 Programming for Data Analytics
+INFS5720 Business Analytics Methods
+INFS5730 Social Media Analytics in Practice 
+INFS5731 Information Systems Strategy and Management
+INFS5740 Business Systems Project
+INFS5777 Web3 and Blockchain Applications
+INFS5831 Information Systems Consulting
+INFS5848 Fundamentals of Information Systems and Technology Project Management
+INFS5870 Operations Management
+INFS5871 Supply Chains and Logistics Design
+INFS5872 Service and Quality Management
+INFS5885 Business in the Digital Age
+INFS5907 Fundamentals of Cybersecurity for Business
+INFS5917 Managing Cloud and Network Security
+INFS5922 Contemporary Practices in Cybersecurity Management
+INFS5929 Cybersecurity Leadership and Risk Management
+INFS5959 Cybersecurity Analytics
+INFS5978 Accounting Information Systems
+INFS5987 Theoretical Foundations of Information Systems
+INFS5993 Special Topic in Information Systems and Technology Management
+INFS5997 Digital Business and Applied Analytics Practicum
+JURD7023 Commercial Contracts: Problems of Performance, Breach and Termination
+JURD7121 Crime and the Criminal Process
+JURD7122 Criminal Laws
+JURD7130 Lawyers, Ethics and Justice
+JURD7141 Principles of Public Law
+JURD7150 Principles of Private Law
+JURD7152 Introducing Law and Justice
+JURD7155 Legal Research and Writing
+JURD7160 Administrative Law
+JURD7161 Torts
+JURD7175 Contracts
+JURD7193 State Crime, the Law and Civil Society
+JURD7214 Foundations Extension
+JURD7222 Law and Social Theory
+JURD7223 Legal Theory
+JURD7224 Business Associations
+JURD7236 Theories of Law and Justice
+JURD7250 Federal Constitutional Law
+JURD7251 Court Process, Evidence and Proof
+JURD7270 Law in the Global Context
+JURD7271 Resolving Civil Disputes
+JURD7272 Transitional Module: LRW - Australian Law
+JURD7283 Land Law
+JURD7284 Legal Experimentalism
+JURD7285 Equity and Trusts
+JURD7294 The Inhouse Counsel – Law, Skills and Practice
+JURD7301 Health and Medical Law
+JURD7302 Advanced Criminal Law
+JURD7303 Kingsford Legal Centre Community Law Clinic (Intensive)
+JURD7304 Kingsford Legal Centre Community Law Clinic (Non-intensive)
+JURD7305 Kingsford Legal Centre Employment Law Clinic (Intensive)
+JURD7312 Indigenous Law Centre Student Editor
+JURD7314 Dispute Resolution: Principles, Processes and Practices
+JURD7316 Expert Evidence
+JURD7318 Commercial Law
+JURD7321 Foundations of Intellectual Property Law
+JURD7322 Communications Law
+JURD7323 Chinese Legal System (SJTU)
+JURD7325 Advanced Contract Law
+JURD7328 Employment Law
+JURD7330 Cybercrime, Information Security and Digital Enforcement
+JURD7331 Information Technology Law
+JURD7333 Law of Banking
+JURD7335 Economic Analysis of Law
+JURD7336 Theories of Law and Justice
+JURD7337 Australian Consumer Law
+JURD7339 Workplace Law
+JURD7341 Gender and Law
+JURD7344 Electronic Commerce Law
+JURD7346 Human Rights Law (New York)
+JURD7350 Globalisation and Intellectual Property Law
+JURD7355 Doping in Sport: Global Issues
+JURD7357 Advanced Intellectual Property Policy and Practice
+JURD7360 Human Rights Clinic (Non-intensive)
+JURD7361 Environmental Law
+JURD7364 Regulation, Litigation and Enforcement
+JURD7366 Environmental Markets
+JURD7367 International Law, Human Rights and Cultural Heritage
+JURD7369 Natural Resources Law
+JURD7370 The Essential Advocate: An Introduction to Advocacy
+JURD7371 Development and Planning Law
+JURD7372 Australian Immigration Law and Practice
+JURD7376 Current Issues in Criminal Justice
+JURD7378 Theft, Fraud and Corruption
+JURD7379 Restitution
+JURD7380 Insurance Law
+JURD7381 International Humanitarian Law
+JURD7382 Advanced Administrative Law
+JURD7383 Australian Journal of Human Rights
+JURD7387 Forced Migration and Human Rights in International Law
+JURD7388 Settlement of International Disputes
+JURD7392 Takeovers and Capital Markets Law
+JURD7395 Interpretation of Contracts
+JURD7399 Funds Management, Superannuation and Insurance
+JURD7404 International Children's Rights Law
+JURD7405 Penology
+JURD7409 Human Rights Clinic (Intensive)
+JURD7411 Indigenous People and the Law
+JURD7412 Discrimination and the Law
+JURD7413 Housing Law
+JURD7414 Insolvency Law
+JURD7417 The Politics of Human Rights: Theory and Critique
+JURD7419 Competition Law and Policy
+JURD7420 International Commercial Dispute Resolution
+JURD7421 Media Law: General Principles
+JURD7422 Critical Victimology
+JURD7424 Indigenous Women and the Law
+JURD7428 Corporate Governance
+JURD7431 Legal Theory
+JURD7433 Privacy, Publicity and the Media
+JURD7434 Research Thesis: Extended
+JURD7435 Conveyancing
+JURD7437 Surveillance, Security and Democracy
+JURD7438 Chinese Corporate and Securities Law
+JURD7440 Online Content Regulation
+JURD7441 Law Journal (Issue Editor)
+JURD7444 Animal Law
+JURD7446 Intellectual Property 1: Copyright and Designs
+JURD7448 Intellectual Property 2: Trade Marks and Patents
+JURD7449 Theories of Law and Biology
+JURD7450 Contemporary Constitutional Law
+JURD7451 Australian Legal History - Before and After the First Fleet
+JURD7455 Responses to Corporate Wrongdoing
+JURD7460 Human Rights in Asia
+JURD7461 Australian Bills of Rights and the Protection of Human Rights
+JURD7462 Media and Human Rights
+JURD7463 Concepts and Controversies in Dispute Resolution
+JURD7464 Human Rights and Security
+JURD7466 Climate Law
+JURD7467 International Criminal Law
+JURD7468 The Australian Legal System in Comparative Perspective
+JURD7470 Renewable Energy Law: Structuring  and Financing Renewable Energy Projects
+JURD7472 Law of the World Trade Organisation
+JURD7473 Asian Competition Law
+JURD7474 Competition Law and Intellectual Property
+JURD7475 Gender, Race and Justice
+JURD7476 Sir Anthony Mason Research Project in Constitutional Law
+JURD7477 Effective Facilitation
+JURD7478 Mediation in Practice
+JURD7479 International Investment Law
+JURD7480 Principled (Interest Based) Negotiation
+JURD7481 Public International Law
+JURD7482 Conflict of Laws
+JURD7484 International Trade Law: The Law and Policy of the WTO
+JURD7485 Public Interest Litigation: Origins and Strategies
+JURD7486 International Law Competitive Moot
+JURD7487 International Law and the Use of Force
+JURD7488 Law of Armed Conflict
+JURD7489 Class Actions and Mega-Litigation
+JURD7491 Family Law
+JURD7492 Children and the Law
+JURD7493 Succession
+JURD7495 Anti-Terrorism Law, Criminal Justice and Human Rights
+JURD7496 Family Law Advocacy and Practice
+JURD7501 Law, Gender and Sexuality
+JURD7502 Land and Environment Court Clinic
+JURD7503 Crime Prevention Policy
+JURD7505 Juvenile Justice
+JURD7507 Current Issues in International Human Rights Law
+JURD7511 Anti-Money Laundering and Proceeds of Crime
+JURD7514 Defamation and the Media
+JURD7515 People, Land and Community
+JURD7516 Sport and the Law
+JURD7520 International Financial Law
+JURD7522 Competition Law
+JURD7525 Criminal Process: a Human Rights Framework
+JURD7526 Banking and Finance Law
+JURD7527 Drug Law and Policy
+JURD7528 Migration and Citizenship Law
+JURD7531 Work Health and Safety Law
+JURD7534 Online Dispute Resolution
+JURD7539 Law and Society in Asia
+JURD7540 Kingsford Legal Centre Family Law Community Education Clinic (Non-intensive)
+JURD7545 Mining and Resources Law
+JURD7546 Law and Technology: Comparative Perspectives (UNSW/UZH)
+JURD7549 Child Rights Comparative Clinical Program: India
+JURD7550 Data Privacy Law
+JURD7554 International Trade Remedies: Law and Practices
+JURD7555 UNSW Law Internships
+JURD7556 Disability Law and Policy
+JURD7558 Exploring Workplace Conflict and Managing Disputes
+JURD7559 International and Comparative Law Workshop
+JURD7564 UNSW Law Journal (Executive Editor)
+JURD7565 UNSW Law Journal Editor
+JURD7567 Constitutionalism and the Rule of Law in Asia
+JURD7572 Corporate Misconduct and White Collar Crime
+JURD7576 Investor-State Dispute Resolution 
+JURD7581 Advanced Statutory Interpretation
+JURD7582 International Human Rights Law and Advocacy
+JURD7583 International Commercial Arbitration
+JURD7585 International Organisations
+JURD7586 Law of the Sea
+JURD7589 Business and Human Rights
+JURD7591 Comparative Constitutional Law
+JURD7592 The High Court of Australia
+JURD7593 International Business Transactions
+JURD7594 White-Collar Crime
+JURD7596 Designing Technology Solutions for Access to Justice
+JURD7598 Sentencing and Criminal Justice
+JURD7602 The Law of Politics
+JURD7603 Global Issues in Competition Law and Policy
+JURD7608 Older People and the Law
+JURD7610 International Commercial Mediation Competition
+JURD7613 Indigenous Peoples in International Law
+JURD7615 Explaining Punishment
+JURD7616 International and Comparative Intellectual Property
+JURD7617 Intellectual Property Law
+JURD7619 International Environmental Law
+JURD7621 Advanced Topics in Intellectual Property
+JURD7623 Commercial and Charitable Trusts
+JURD7625 Dispute Resolution in China
+JURD7627 Law Schools Global League Summer School
+JURD7632 Law and Social Theory
+JURD7633 The Criminal Trial
+JURD7639 Law and the Culture Industries
+JURD7645 CIBEL Elective (Tsinghua)
+JURD7648 Transitional Justice (South America)
+JURD7657 Chinese Regulation of International Business
+JURD7665 Skills in Dispute Management
+JURD7682 Global Governance and Social Justice
+JURD7683 Sports Sponsorship and Marketing
+JURD7685 Law, Urban Sustainability and the New Economy
+JURD7689 World Trade Law: Contemporary Issues and Concerns
+JURD7691 International Law of Equality and Discrimination
+JURD7695 Corporate Insolvency
+JURD7701 Remedies
+JURD7708 Climate Change, Displacement and the Law
+JURD7710 Globalisation and Commercial Law
+JURD7716 Food Law
+JURD7741 Censorship, Contempt and the Media
+JURD7745 Women and Gender Law ILS Pune
+JURD7751 Taxation Law
+JURD7756 Transforming Environmental Law: Exploring Legal Rights of Nature
+JURD7758 Roman Law
+JURD7765 Intro to Chinese Regulation of Int'l Business
+JURD7766 Human Rights Fieldwork and Practice
+JURD7773 Cities, Planning, Law and Justice
+JURD7774 Financial Law and Regulation in the Age of FinTech
+JURD7777 Law Internships: Extended
+JURD7781 International Human Rights
+JURD7782 Peaceful Settlement of International Disputes
+JURD7784 Legal Experimentalism
+JURD7787 US Legal Systems (Berkeley)
+JURD7791 Corporate Control Transactions
+JURD7795 Intellectual Property & Tech Commercialisation: Strategic Management of the Lifecycle of Innovation
+JURD7812 Native Title Law, Policy and Practice
+JURD7813 Indigenous Children and the Law
+JURD7817 Critical Issues in Restorative Justice
+JURD7819 Police Powers Clinic
+JURD7823 Research Thesis: 6 Units of Credit
+JURD7829 Legal Writing in Context
+JURD7841 Pacific Islands Laws (USP)
+JURD7891 International Criminal Law
+JURD7892 Law, Rights and Development
+JURD7942 The Will of the People
+JURD7975 Constitutionalism in the Global South
+JURD7983 Legal Aid and Global Justice Lawyering: Issues in Practice
+JURD7989 Comparative Anti-Terrorism Law
+JURD7992 Securities and Financial Markets Regulation
+LAND7101 Master Landscape Studio 1: Site Planning - Landscape Performance and Site Design
+LAND7102 Master Landscape Studio 2: Design with a Complex Program
+LAND7121 People Place Design
+LAND7151 Planting Design at the Landscape Scale
+LAND7152 Landscape Theory and Practice: Urban Ecology and Landscape Design
+LAND7153 Landscape Analysis 
+LAND7201 Master Landscape Studio 3: The Public Realm
+LAND7202 Master Landscape Studio 4: Constructed Ecologies
+LAND7211 Case Studies in Landscape Architecture
+LAND7221 Advanced Urban Landscape Visualisation
+LAND7272 Landscape Technology 1: Landscape Performance (Materials and Fabrication)
+LAND7303 Regional Landscape Outreach Studio
+LAND7311 Advanced Landscape Theory and Research
+LAND7312 Masters Landscape Studio: Capstone Part 1
+LAND7313 Masters Landscape Studio: Capstone Part 2
+LAND7315 Professional Practice for Landscape Architects 
+LAND7321 Landscape Technology 2
+LAWS0001 Research Thesis Law Full-Time
+LAWS8001 Law, Gender and Sexuality
+LAWS8011 Anti-Money Laundering and Proceeds of Crime
+LAWS8014 Defamation and the Media
+LAWS8015 Explaining Punishment
+LAWS8016 International and Comparative Intellectual Property
+LAWS8017 Intellectual Property Law
+LAWS8020 International Commercial Dispute Resolution
+LAWS8021 Advanced Topics in Intellectual Property
+LAWS8023 Commercial Contracts: Problems of Performance, Breach and Termination
+LAWS8026 Banking and Finance Law
+LAWS8028 Corporate Governance
+LAWS8030 Cybercrime, Information Security and Digital Enforcement
+LAWS8033 Privacy, Publicity and the Media
+LAWS8037 Surveillance, Security and Democracy
+LAWS8038 Chinese Corporate and Securities Law
+LAWS8040 Online Content Regulation
+LAWS8044 Electronic Commerce Law
+LAWS8045 Mining and Resources Law
+LAWS8050 Globalisation and Intellectual Property Law
+LAWS8052 Human Rights Internship Program
+LAWS8054 Media and Communications Industry Regulation
+LAWS8056 Disability Law and Policy
+LAWS8058 Exploring Workplace Conflict and Managing Disputes
+LAWS8060 Human Rights in Asia
+LAWS8061 Australian Bills of Rights and the Protection of Human Rights
+LAWS8063 Concepts and Controversies in Dispute Resolution
+LAWS8064 Regulation, Litigation and Enforcement
+LAWS8066 Climate Law
+LAWS8067 International Law, Human Rights and Cultural Heritage
+LAWS8068 Law and Policy for Sustainable Development
+LAWS8069 Natural Resources Law
+LAWS8070 Renewable Energy Law: Structuring  and Financing Renewable Energy Projects
+LAWS8071 Development and Planning Law
+LAWS8073 Asian Competition Law
+LAWS8074 Competition Law and Intellectual Property
+LAWS8075 Gender, Race and Justice
+LAWS8076 Current Issues in Criminal Justice
+LAWS8077 Effective Facilitation
+LAWS8078 Mediation in Practice
+LAWS8079 International Investment Law
+LAWS8080 Insurance Law
+LAWS8082 Peaceful Settlement of International Disputes
+LAWS8083 Sports Sponsorship and Marketing
+LAWS8085 International Organisations
+LAWS8086 Law of the Sea
+LAWS8087 International Law and the Use of Force
+LAWS8091 Corporate Control Transactions
+LAWS8092 Securities and Financial Markets Regulation
+LAWS8095 Corporate Insolvency
+LAWS8099 Funds Management, Superannuation and Insurance
+LAWS8103 Crime Prevention Policy
+LAWS8104 International Children's Rights Law
+LAWS8105 Juvenile Justice
+LAWS8107 Current Issues in International Human Rights Law
+LAWS8112 Construction of Commercial Agreements
+LAWS8117 Critical Issues in Restorative Justice
+LAWS8122 Critical Victimology
+LAWS8123 Indigenous Children and the Law
+LAWS8124 Indigenous Women and the Law
+LAWS8125 Criminal Process: a Human Rights Framework
+LAWS8135 Chinese Legal System (SJTU)
+LAWS8139 Law and the Culture Industries
+LAWS8141 Censorship, Contempt and the Media
+LAWS8146 Human Rights Law (New York)
+LAWS8155 Doping in Sport: Global Issues
+LAWS8162 Media and Human Rights
+LAWS8164 Human Rights and Security
+LAWS8165 Skills in Dispute Management
+LAWS8166 Human Rights Fieldwork and Practice
+LAWS8168 The Australian Legal System in Comparative Perspective
+LAWS8173 UNSW Law Postgraduate Internships
+LAWS8174 Financial Law and Regulation in the Age of FinTech
+LAWS8180 Principles of International Law
+LAWS8181 International Human Rights
+LAWS8182 Global Governance and Social Justice
+LAWS8183 International Commercial Arbitration
+LAWS8185 Law, Urban Sustainability and the New Economy
+LAWS8188 Law of Armed Conflict
+LAWS8189 Business and Human Rights
+LAWS8190 International Refugee Law
+LAWS8192 Law, Rights and Development
+LAWS8193 State Crime, the Law and Civil Society
+LAWS8197 Law Schools Global League Summer School
+LAWS8198 Legal Project Management: Business Strategy, Practice Systems, Innovation & Change
+LAWS8203 Global Issues in Competition Law and Policy
+LAWS8210 Globalisation and Commercial Law
+LAWS8212 Native Title Law, Policy and Practice
+LAWS8213 Legal Concepts, Research and Writing
+LAWS8214 Global Common Law Systems
+LAWS8219 Competition Law and Policy
+LAWS8220 International Financial Law
+LAWS8225 Dispute Resolution in China
+LAWS8239 Workplace Law
+LAWS8241 Pacific Islands Laws (USP)
+LAWS8252 Advanced Statute Law
+LAWS8256 Transforming Environmental Law: Exploring Legal Rights of Nature
+LAWS8289 Comparative Anti-Terrorism Law
+LAWS8291 Comparative Constitutional Law
+LAWS8294 The Inhouse Counsel – Law, Skills and Practice
+LAWS8308 Climate Change, Displacement and the Law
+LAWS8314 Dispute Resolution: Principles, Processes and Practices
+LAWS8319 International Environmental Law
+LAWS8328 Migration and Citizenship Law
+LAWS8345 CIBEL Elective (Tsinghua)
+LAWS8346 Law and Technology: Comparative Perspectives (UNSW/UZH)
+LAWS8348 Transitional Justice (South America)
+LAWS8349 Child Rights Comparative Clinical Program: India
+LAWS8365 Intro to Chinese Regulation of Int'l Business
+LAWS8366 Environmental Markets
+LAWS8375 Constitutionalism in the Global South
+LAWS8391 International Law of Equality and Discrimination
+LAWS8395 Intellectual Property & Tech Commercialisation: Strategic Management of the Lifecycle of Innovation
+LAWS8398 Introduction to Law and Policy for Cyber Security
+LAWS8413 Indigenous Peoples in International Law
+LAWS8422 Research Thesis: Extended
+LAWS8423 Research Thesis: 6 Units of Credit
+LAWS8491 Family Law
+LAWS8500 Constitutionalism and the Rule of Law in Asia
+LAWS8534 Online Dispute Resolution
+LAWS8576 Investor-State Dispute Resolution 
+LAWS8765 Complex Commercial Litigation
+LAWS8845 Women and Gender Law ILS Pune
+LAWS8972 Law of the World Trade Organisation
+LAWS8980 Principled (Interest Based) Negotiation
+LAWS8989 World Trade Law: Contemporary Issues and Concerns
+LAWS8991 International Criminal Law
+LAWS8993 International Business Transactions
+LAWS8994 White Collar Crime
+LAWS9800 Law for Psychologists 1
+LAWS9810 Law for Psychologists 2
+LAWS9812 Introduction to Law and Policy for Cyber Security
+LING5001 Second Language Acquisition
+LING5003 Language Technology
+LING5005 The Grammar of English
+LING5006 Current Issues in Bilingualism
+LING5015 Discourse Analysis
+LING5022 Cross-cultural Pragmatics
+LING5024 The Sound System of English
+LING5026 The Structure of Language
+LING5027 Research Methods in Linguistics
+LING5029 The Psychology of Language
+LING5031 Research Topics in Applied Linguistics
+LING5032 Thesis Writing 1
+LING5033 Thesis Writing 2
+LING5035 Language and Meaning
+LING5037 The Use of Language
+MANF4100 Design and Analysis of Product-Process Systems
+MANF4150 Design of Intelligent Manufacturing Systems
+MANF4430 Reliability and Maintenance Engineering
+MANF4611 Process Modelling and Simulation
+MANF6860 Strategic Manufacturing Management
+MANF9400 Industrial Management
+MANF9420 Operations and Supply Chain Management in Engineering
+MANF9472 Production Planning and Control
+MANF9543 Computer Aided Design / Computer Aided Manufacture
+MANF9544 Concurrent Product and Process Design
+MANF9550 Robotic 3D Printing
+MARK5700 Elements of Marketing
+MARK5800 Consumer Behaviour
+MARK5810 Marketing Communication and Promotion
+MARK5811 Applied Marketing Research
+MARK5812 Distribution, Retail Channels and Logistics
+MARK5813 New Product and Service Development
+MARK5814 Digital Marketing
+MARK5816 Services Marketing Management
+MARK5820 Events Management and Marketing
+MARK5821 Brand Management
+MARK5822 Marketing Analytics Tools
+MARK5824 Sales Strategy and Implementation
+MARK5825 Global Marketing Strategy
+MARK5826 Product Analytics
+MARK5827 Customer Analytics
+MARK5828 Advertising Analytics
+MARK5829 Pricing Analytics
+MARK5830 Marketing Analytics Project
+MARK8995 Business Research Methods in Marketing
+MARK8996 Research Seminar in Marketing
+MATH5005 Advanced Mathematics Project A
+MATH5006 Advanced Mathematics Project B
+MATH5165 Optimization
+MATH5171 Linear and Discrete Optimization Modelling
+MATH5175 Special Topics in Applied Mathematics A
+MATH5185 Special Topics in Applied Mathematics B
+MATH5191 Mathematical Optimization for Data Science
+MATH5201 Dynamical Systems and Chaos
+MATH5207 Physical Oceanography Research Project
+MATH5231 Prediction and Inverse Modelling
+MATH5271 Environmental Data Science and Statistics
+MATH5285 Fluids, Oceans and Climate
+MATH5295 Special Topics in Applied Mathematics D
+MATH5305 Computational Mathematics for Science and Engineering
+MATH5335 Computational Mathematics for Finance
+MATH5361 Stochastic Differential Equations: Theory, Applications, and Numerical Methods
+MATH5371 Numerical Linear Algebra
+MATH5425 Graph Theory
+MATH5505 Combinatorics
+MATH5515 Special Topics in Pure Mathematics A
+MATH5525 Special Topics in Pure Mathematics B
+MATH5535 Special Topics in Pure Mathematics C
+MATH5605 Functional Analysis
+MATH5615 Banach and Operator Algebras
+MATH5645 Number Theory
+MATH5665 Algebraic Topology
+MATH5700 Modern Differential Geometry and Topology
+MATH5705 Modern Analysis
+MATH5706 Modern Algebra
+MATH5715 Harmonic Analysis
+MATH5725 Galois Theory
+MATH5735 Modules and Representation Theory
+MATH5805 Special Topics in Statistics
+MATH5806 Applied Regression Analysis
+MATH5816 Continuous Time Financial Modelling
+MATH5825 Measure, Integration and Probability
+MATH5826 Statistical Methods in Epidemiology
+MATH5835 Advanced Stochastic Processes
+MATH5836 Data and Machine Learning
+MATH5845 Time Series
+MATH5846 Introduction to Probability and Stochastic Processes
+MATH5855 Multivariate Analysis
+MATH5856 Introduction to Statistics and Statistical Computations
+MATH5868 Bootstrap and Other Resampling Methods
+MATH5885 Longitudinal Data Analysis
+MATH5895 Nonparametric Statistics
+MATH5901 Stochastic Processes
+MATH5905 Statistical Inference
+MATH5906 Design & Analysis of Clinical Trials
+MATH5916 Survival Analysis
+MATH5925 Project
+MATH5945 Categorical Data Analysis
+MATH5960 Bayesian Inference and Computation
+MATH5965 Discrete Time Financial Modelling
+MATH5975 Introduction to Stochastic Analysis
+MATH5985 Term Structure Modelling
+MATH6781 Biomathematics
+MATS6001 Fundamentals of Materials Processing
+MATS6002 Fundamentals of Materials Design
+MATS6003 Presentation Skills for Materials Technology
+MATS6004 Materials Industry Management
+MATS6006 Recycling of Materials
+MATS6007 Sustainable Materials Engineering
+MATS6008 Advanced Functional Materials
+MATS6009 Advanced Alloys
+MATS6101 Thermodynamics and Phase Equilibria
+MATS6102 Kinetics and Phase Transformations
+MATS6104 Physical Properties of Materials
+MATS6105 Chemical Properties of Materials
+MATS6106 Mechanical Properties of Materials
+MATS6107 Thermal Properties of Ceramics
+MATS6108 Functional Properties of Materials
+MATS6109 Polymer Materials Science
+MATS6110 Computational Materials Science
+MATS6111 Processes in Materials Engineering
+MATS6112 Characterisation of Materials
+MATS6113 Research Project
+MATS6114 Research Project A
+MATS9010 Entrepreneurship and Commercialisation
+MBAE7501 Executive Accelerator
+MBAE7502 Executive Strategy: Growth and Innovation
+MBAE7503 Executive Strategy: Disruption and Transformation
+MBAE7504 Executive Leadership Immersion
+MBAE7505 Executive Accelerator Initial Term
+MBAE7506 Executive Accelerator Middle Term
+MBAE7507 Executive Accelerator Final Term
+MDIA5000 Understanding Contemporary Media
+MDIA5001 Writing for Media
+MDIA5002 Multiplatform and Audiovisual Journalism
+MDIA5003 Social Media Campaigning
+MDIA5004 Media Relations
+MDIA5005 Celebrity, Media and Culture
+MDIA5006 News and Feature Writing
+MDIA5007 Media Ethics and Law
+MDIA5008 Media Research Project
+MDIA5009 Philosophies of Journalism
+MDIA5010 Literary and Narrative Journalism Practice
+MDIA5011 Professional Media Practices: Creating, Publishing and Publicising Digital Journalism
+MDIA5021 Advertising and Creativity
+MDIA5022 Organisational Communication
+MDIA5023 Public Relations Theory and Practice
+MDIA5024 Communication Strategies
+MDIA5027 Understanding Digital Cultures
+MDIA5028 Critical Perspectives in Communication
+MDIA5029  Advertising Theory and Practice
+MDIA5030 Brand Cultures
+MDIA5031 Research in Practice
+MDIA5032 From Text to Talk: Finding Your Voice
+MDIA5033 Advocacy, Representation, Practice
+MDIA5100 Industry Internship
+MECH3700 Fundamentals and Design of Electrochemical Energy Storage Systems
+MECH4100 Mechanical Design 2
+MECH4305 Fundamental and Advanced Vibration Analysis
+MECH4320 Engineering Mechanics 3
+MECH4620 Computational Fluid Dynamics
+MECH4880 Refrigeration and Air Conditioning 1
+MECH4900 Mechanics of Fracture and Fatigue
+MECH9011 ME Project A
+MECH9012 ME Project B
+MECH9325 Fundamentals of Acoustics & Noise
+MECH9420 Composite Materials and Mechanics
+MECH9650 Applied Bio and Microfluidics
+MECH9720 Solar Thermal Energy Design
+MECH9761 Automobile Engine Technology
+MECH9910 Special Topic in Mechanical Engineering
+MERE5001 Sedimentary and Energy Resources Geology
+MERE5002 Seismic Imaging
+MERE6001 Sedimentary and Energy Resources Geology
+MERE6002 Seismic Imaging
+MERE8810 Data Analytics and Automated Technologies for Minerals and Energy Resources
+MERE9451 Masters Project A
+MERE9452 Masters Project B
+MERE9453 Masters Project C
+MFIN6201 Empirical Techniques and Applications in Finance
+MFIN6205 Financial Risk Management for Financial Institutions
+MFIN6210 Empirical Studies in Finance
+MFIN6214 Financial Theory and Policy
+MGMT5050 Responsible Business Professionalism
+MGMT5601 Global Business Environment
+MGMT5602 Cross-Cultural Management
+MGMT5603 Global Business Strategy
+MGMT5610 International Business Consulting Practicum
+MGMT5611 Entrepreneurship and New Venture Management
+MGMT5613  Managing Global Value Chains
+MGMT5701 Global Employment Relations
+MGMT5710 Managing and Leading People
+MGMT5800 Technology, Management and Innovation
+MGMT5803 Business Innovation
+MGMT5904 Managing Organisational Change
+MGMT5906 Organisations and People in Context
+MGMT5907 Human Resource Management
+MGMT5908 Strategic Human Resource Management
+MGMT5912 Negotiating in Global Context
+MGMT5930 Human Capital Analytics
+MGMT5940 Career Management Skills
+MGMT5949 International Human Resource Management
+MGMT6005 Managing Organisational Risk in Global Context
+MICR9071 Marine Microbiology
+MINE5010 Fundamentals of Rock Behaviour for Underground Mining
+MINE5020 Geotechnical Assessment for Underground Mining
+MINE5030 Mining Excavations in Rock
+MINE5040 Coal Mining Methods, Mine Planning and Applied Geomechanics
+MINE5050 Ground Control Principles and Practice in Underground Coal Mining
+MINE5060 Operational Geotechnical Management (Underground Coal Mining)
+MINE8101 Fundamentals of Mining Engineering
+MINE8115 Mine Processes, Systems and Analysis
+MINE8120 Hazard Identification, Risk and Safety Management in Mining
+MINE8130 Technology Management and Innovation in Mining
+MINE8140 Mining Geomechanics
+MINE8210 Management Systems - Projects, Processes, Contracts, Contractors
+MINE8440 Mining Industry Research Project 1
+MINE8445 Mining Industry Research Project 2
+MINE8680 Geotechnical Data Collection and Analysis
+MINE8690 Mining Geotechnical Project
+MINE8710 Mine Slope Stability
+MINE8760 Mine Geology and Geophysics for Mining Operations
+MINE8780 Environmental Management for the Mining Industry
+MINE8820 Mineral Processing
+MINE8850 Mine Design and Feasibility
+MINE8860 Drilling, Blasting and Machine Excavation
+MINE8910 Mine Water and Waste Management
+MINE8930 Uranium mining fundamentals
+MINE8940 Mine Slope Monitoring Technologies
+MINE8950 Sustainable Tailings Management
+MINE9100 Mining Design Practice
+MINE9901 Ventilation and Mine Services
+MINE9902 Environmental Contaminants
+MINE9903 Heat in Underground Mines
+MINE9904 Ventilation System Management
+MINE9905 Coal Mine Hazards and Control
+MINE9910 Mine Ventilation
+MINE9920 Spontaneous Combustion and Reactive Ground
+MINE9921 Mine Ventilation Legislation
+MINE9922 Mine Ventilation Practices
+MMAN4200 Additive Manufacturing
+MMAN4400 Engineering Management
+MMAN4410 Finite Element Methods
+MMAN9001 Master of Engineering Science Project A
+MMAN9002 Master of Engineering Science Project B
+MMAN9451 Masters Project A
+MMAN9452 Masters Project B
+MMAN9453 Masters Project C
+MNGT5095 Foundations of Management
+MNGT5180 Operationalising Strategy
+MNGT5201 Economics in Management Practice
+MNGT5202 Entrepreneurship and Innovation
+MNGT5203 Entrepreneurship from the Inside
+MNGT5211 Accounting and Financial Management
+MNGT5221 Corporate Finance
+MNGT5232 Data Analysis and Statistical Modelling for Business
+MNGT5234 Data Analytics and Decision-making
+MNGT5251 Marketing Management
+MNGT5272 Managing People and Organisations
+MNGT5282 Strategy
+MNGT5312 Financial Statement Analysis
+MNGT5321 Advanced Managerial Finance
+MNGT5322 Venture Capital Finance
+MNGT5325 International Finance
+MNGT5374 Managerial Decision Making
+MNGT5388 Negotiation Skills
+MNGT5395 Strategies for Growth
+MNGT5520 Quantitative Business Modelling for Managers
+MNGT5521 Financial Strategy
+MNGT5522 Mergers and Acquisitions
+MNGT5541 Advanced Topics in Management
+MNGT5542 Business Sustainability
+MNGT5543 Special Topics in Management
+MNGT5583 Doing Sustainable Business in Australia
+MNGT5585 Individual Study in Management
+MNGT5587 Extension Research Project
+MNGT5589 Strategic Consulting Projects
+MNGT5590 Work Integrated Learning 12uoc
+MNGT5594 Extension Research Project 
+MNGT5595 Work Integrated Learning 
+MNGT7497 Growth
+MNGT7498 Transformation
+MODL5100 Research and Theories of Translation and Interpreting
+MODL5101 Interpreting in Legal Settings
+MODL5102 Interpreting in Community Settings
+MODL5103 Multimedia Translation
+MODL5104 Specialised Translation
+MODL5105 Conference Interpreting
+MODL5106 Text Analysis for Translation
+MODL5107 Translation Technology
+MODL5108 Translation Certification Preparation
+MODL5111 Community of Practice for Interpreting
+MODL5112 Advanced Translation Technology and Industry Practice
+MODL5113 Interpreting Certification Preparation
+MODL5116 Advanced Conference Interpreting
+MODL5117 Interpreting in International Settings
+MSCI5004 Oceanographic Processes
+MSCI5005 Topics in Marine Biology and Ecology
+MSCI6681 Topics in Australian Marine Science
+MSCI9001 Conservation in Aquatic Ecosystems
+MTRN4010 Advanced Autonomous Systems
+MTRN4110 Robot Design
+MTRN4230 Robotics
+MTRN4231 Robotics Project
+MTRN9400 Control of Robotic Systems
+MUPS0001 Drivers of Urban Change
+MUPS0002 Strategic Urban Policy
+MUPS0003 Decision Making and Governance
+MUPS0004 Development Economics and Finance
+MUPS0007 Research for Evidence-Based Policy
+MUPS0009 Urban Leadership, Politics and Ethics
+OPTM6400 Optometric Preclinical Practice
+OPTM6411 Contact Lenses
+OPTM6412 Clinical Optometry 4A
+OPTM6413 Anterior Eye Therapeutics
+OPTM6421 Binocular Vision, Paediatrics and Low Vision
+OPTM6422 Clinical Optometry 4B
+OPTM6423 Therapeutics and the Posterior Eye
+OPTM6424 Professional Optometry
+OPTM7001 Introduction to Community Eye Health
+OPTM7003 Epidemiology of Blinding Eye Diseases
+OPTM7006 Eye Care Program Management
+OPTM7104 Advanced Contact Lens Studies 1
+OPTM7107 Ocular Therapy 1
+OPTM7115 Visual Neuroscience
+OPTM7117 Ocular Therapy 2
+OPTM7205 Specialty Contact Lens Studies
+OPTM7208 Research Skills in Optometry
+OPTM7218 Research Project
+OPTM7301 Advanced Clinical Optometry
+OPTM7302 Evidence Based Optometry
+OPTM7511 Advanced Ocular Disease 1
+OPTM7521 Advanced Ocular Disease 2
+OPTM7611 Introduction to Myopia
+OPTM7612 Myopia Management
+OPTM7621 Clinical Myopia Management
+OPTM8511 Clinical Paediatrics, Low Vision and Colour Vision
+OPTM8512 Clinical Optometry 5A
+OPTM8513 Clinical Ocular Therapy 5A
+OPTM8514 Optometry Research Project
+OPTM8521 Clinical Contact Lenses
+OPTM8522 Clinical Optometry 5B
+OPTM8523 Clinical Ocular Therapy 5B
+PHAR9101 Introduction to the Therapeutics Industry
+PHAR9104 Regulatory Affairs
+PHAR9111 Pharmaceutics
+PHAR9113 International Regulatory Affairs
+PHAR9114 Health Technology Assessment
+PHAR9116 Clinical Trial Management
+PHAR9117 Cancer Therapeutics
+PHAR9118 Therapeutics
+PHAR9120 Clinical Trials
+PHAR9121 Pharmacovigilance
+PHAR9122 Medical Affairs
+PHCM9010 Community Development
+PHCM9012 Health Promotion and Social Perspectives of Health
+PHCM9041 Foundations in Public Health and Health Care Systems
+PHCM9050 Immunisation Policy and Practice
+PHCM9082 Advanced Health Economics and Financial Management
+PHCM9100 Academic Practice
+PHCM9103 Independent Study
+PHCM9108 Program Design and Evaluation
+PHCM9120 Qualitative Research Methods
+PHCM9129 Prevention and Management of Chronic Disease
+PHCM9132 Applied Research Methods for Public Health
+PHCM9143 Internship
+PHCM9144 Project
+PHCM9145 Project
+PHCM9148 Minor Project
+PHCM9150 Major Project
+PHCM9151 Major Project
+PHCM9152 Major Project
+PHCM9331 Ethics and Law in Public Health
+PHCM9381 Policy Studies
+PHCM9391 Health Organisations, Strategy and Change
+PHCM9440 Economic Evaluation in Healthcare
+PHCM9441 Healthcare Economics and Financial Management
+PHCM9443 Health Economics & Finance for Developing Countries
+PHCM9471 Comparative Health Care Systems
+PHCM9517 Regression Methods in Biostatistics
+PHCM9518 Epidemiological Methods
+PHCM9522 Politics, Surveillance and Public Health
+PHCM9604 Tobacco, Alcohol and Illicit Drugs
+PHCM9605 Global Health and Development
+PHCM9606 Maternal and Child Health
+PHCM9612 Environmental Health
+PHCM9615 Principles and Practice of Primary Health Care
+PHCM9622 The Global HIV Epidemic: Social Aspects and Impacts
+PHCM9626 Inequalities, Inequities and Health
+PHCM9628 Health Impact Assessment
+PHCM9630 Public Health Perspectives of Indigenous Health
+PHCM9632 Indigenous Health and Wellbeing Across the Lifespan
+PHCM9662 Health Aspects of Crises, Emergencies and Disasters
+PHCM9701 Health Leadership and Workforce Management
+PHCM9748 Clinical Governance and Risk Management
+PHCM9761 Public Health Aspects of Mental Health
+PHCM9781 Evidence-informed Decision-making
+PHCM9782 Infectious Diseases Challenges: Epidemiology and Control
+PHCM9784 Communicable Disease Control in Global Health
+PHCM9785 Predictive modelling in public health
+PHCM9786 Global Approaches to Cardiovascular Disease, Diabetes and Cancer Prevention
+PHCM9787 Infection Prevention and Control in the Healthcare Setting
+PHCM9788 Outbreak Investigation and Intelligence
+PHCM9789 Bioterrorism and Health Intelligence
+PHCM9790 Digital Health- Principles, Practice and Evidence
+PHCM9791 Implementation Science
+PHCM9792 Injury Epidemiology, Prevention and Control
+PHCM9793 Public Health Advocacy and Communications
+PHCM9794 Foundations of Epidemiology
+PHCM9795 Foundations of Biostatistics
+PHRM4011 Dispensing I
+PHRM4012 Principles, Therapeutics and Practice: Endocrinology and Reproduction 
+PHRM4021 Dispensing II
+PHRM4022 Principles, Therapeutics and Practice: Cancer 
+PHRM4023 Principles, Therapeutics and Practice: Mental Health and Neurology
+PHRM4031 Applied Pharmacotherapeutics 
+PHRM4032 Pharmacy Placement 1
+PHRM5011 Advanced Clinical Practice 1
+PHRM5012 Pharmacy Placement 2
+PHRM5021 Advanced Clinical Practice 2
+PHRM5022 Pharmacy Management
+PHRM5031 Specialty Placement
+PHTN4661 Optical Circuits and Fibres
+PHTN4662 Photonic Networks
+PHYS6118 Quantum Physics of Solids and Devices for SQA
+PHYS6183 Contemporary Physics A for SQA
+PHYS9010 Quantum Technologies and Applications
+PHYS9110 Everyday Physics for Teachers
+PHYS9120 Mechanics for Teachers
+PHYS9130 Electromagnetism for Teachers
+PHYS9140 Modern and Thermal Physics for Teachers
+PLAN6000 Planning with Indigenous Peoples
+PLAN7140 Land & Environment Law
+PLAN7141 Land Use Policy & Practice
+PLAN7142 City Equity & Wellbeing
+PLAN7143 Urban Design
+PLAN7144 Planning History, Theory and Culture
+PLAN7145 City Building - Infrastructure Planning
+PLAN7146 City Economics, Urban Development & Finance
+PLAN7147 Planning Techniques & Analysis
+PLAN7148 Strategic Spatial Planning
+PLAN7149 Planning Thesis
+PLAN7156 Housing Policy and Finance
+PLAN7157 Engaging Communities
+PLAN7320 Housing Management and Markets
+PLTX1020 Skills in Practice
+PLTX1040 Values in Practice
+PLTX1060 Litigation Practice
+PLTX1080 Transactional Practice
+PLTX1120 Administrative Law Practice
+PLTX1150 Banking and Finance
+PLTX1180 Criminal Law Practice
+PLTX1210 Family Law Practice
+PLTX1230 Consumer Law Practice
+PLTX1240 Employment and Industrial Relations Practice
+PLTX1250 Planning and Environmental Law Practice
+PLTX1270 Wills and Estates Practice
+PLTX1300 Workplace Experience 1
+PLTX2020 Workplace Experience 2
+PLTX2040 Practicum
+POLS5102 Key Issues in Australian Foreign Policy
+POLS5120 Global Politics: The Globalisation of World Politics
+POLS5121 International Organisations and Global Politics
+POLS5122 The International Political Economy
+POLS5125 The Politics of International Law
+POLS5127 China and Asia-Pacific Security
+POLS5129 The Foreign Policies of the Great Powers
+POLS5130 International Peace and Security
+POLS5131 Political Violence, Insurgency and Terrorism
+POLS5132 Gender in Global Politics
+POLS5160 The Middle East, Global Politics, and the Question of Palestine
+POLS5161 Developing Countries and the International System
+PSCY9020 Mental Health Assessment and Treatment
+PSCY9021 Fundamental Psychotherapy Skills
+PSCY9022 Philosophies of Mental Health Care, Services and Systems
+PSCY9023 Assessing Risk and Managing Challenging Behaviour
+PSCY9901 Law and Mental Health
+PSCY9902 Psychiatry and Criminal Law
+PSCY9903 Violence
+PSCY9904 Forensic Mental Health Systems
+PSCY9911 Mental Disorders, Personality Disorders & Crime
+PSCY9912 Substance Use Problems and Offending
+PSCY9913 Disordered and Criminal Sexual Behaviour
+PSCY9914 Families, Children, and Adolescent Forensic Psychiatry
+PSCY9915 Civil Law in Relation to Psychiatry
+PSCY9917 Unusual Forensic Behaviours and Special Groups
+PSYC5001 Introduction to Psychology 1
+PSYC5002 Introduction to Psychology 2
+PSYC5003 Data Analysis and Methods of Psychological Inquiry
+PSYC5004 Advanced Data Analysis and Methods of Psychological Inquiry
+PSYC5005 Behavioural Neuroscience
+PSYC5006 Psychology Across the Lifespan
+PSYC5007 The Individual, Culture and Society
+PSYC5008 Perception and Cognition
+PSYC5009 Abnormal Psychology
+PSYC5010 Psychological Assessment, Ethics, and Professional Skills
+PSYC5111 Evaluating Evidence
+PSYC5112 Introduction to Psychology
+PSYC5113 Child Development
+PSYC5114 Learning and Cognition
+PSYC5115 Developmental Psychopathology
+PSYC5116 Wellbeing and Resilience
+PSYC5201 Advanced Research Methods and Statistics
+PSYC5202 History and Professional Ethics in Psychology 
+PSYC5203 Application of Psychological Practice 
+PSYC5204 Behavioural Neuroscience
+PSYC5205 Mental Health and Illness
+PSYC5206 Cognitive Science
+PSYC5207 Social Psychology 
+PSYC7001 Psychological Assessment
+PSYC7204 Adult and Child Clinical Psychology 2
+PSYC7210 Clinical Neuropsychology
+PSYC7212 Adult and Child Clinical Psychology 1
+PSYC7220 Psychology of Health and Illness
+PSYC7221 Evidence Based Clinical Psychology
+PSYC7222 Advanced Topics in Clinical Psychology
+PSYC7223 Professional and Ethical Practice (Clinical) 1
+PSYC7224 Professional and Ethical Practice (Clinical) 2
+PSYC7230 Research Thesis (Clinical) 1
+PSYC7231 Research Thesis (Clinical) 2
+PSYC7232 Research Thesis (Clinical) 3
+PSYC7233 Professional and Ethical Practice (Clinical) 3
+PSYC7234 Professional and Ethical Practice (Clinical) 4
+PSYC7235 Professional and Ethical Practice (Clinical) 5
+PSYC7236 Professional and Ethical Practice (Clinical) 6
+PSYC7237 Neuropsychology Professional and Ethical Practice 1 (NPEP1)
+PSYC7238 Neuropsychology Professional and Ethical Practice 2 (NPEP2)
+PSYC7239 Neuropsychology Professional and Ethical Practice 3 (NPEP3)
+PSYC7240 Clinical Neuropsychology 1: Disruptions
+PSYC7241 Clinical Neuropsychology 2: Lifespan
+PSYC7242 Clinical Neuropsychology 3: Interventions
+PSYC7400 Interventions in Forensic Psychology 1
+PSYC7402 Applications of Forensic Psychology
+PSYC7403 Experimental Psychology and Law
+PSYC7409 Professional and Ethical Practice (Forensic) 1
+PSYC7410 Professional and Ethical Practice (Forensic) 2
+PSYC7411 Professional and Ethical Practice (Forensic) 3
+PSYC7412 Professional and Ethical Practice (Forensic) 4
+PSYC7413 Research Thesis (Forensic) 1
+PSYC7414 Research Thesis (Forensic) 2
+PSYC7415 Research Thesis (Forensic)
+PSYC7419 Professional and Ethical Practice (Forensic) 3
+PSYC7420 Professional and Ethical Practice (Forensic) 4
+PSYC7421 Professional and Ethical Practice (Forensic) 5
+PSYC7422 Professional and Ethical Practice (Forensic) 6
+PSYC7423 Assessment in Forensic Psychology
+PSYC7424 Forensic Interventions 1
+PSYC7425 Forensic Interventions 2
+PSYC7426 Research Thesis (Forensic) 1 
+PSYC7427 Research Thesis (Forensic) 2
+PTRL2019 Reservoir Engineering A
+PTRL5003 Well Pressure Testing
+PTRL5004 Numerical Reservoir Simulation
+PTRL5005 Design Project for Petroleum Engineers
+PTRL5007 Fundamentals of Reservoir Engineering B
+PTRL5008 Petroleum Production Economics
+PTRL5009 Well Drilling Equipment and Operations
+PTRL5010 Natural Gas Engineering
+PTRL5011 Petroleum Production Engineering
+PTRL5012 Enhanced Oil and Gas Recovery
+PTRL5016 Well Completions and Stimulation
+PTRL5019 Fundamentals of Reservoir Engineering A
+PTRL5021 Reservoir Characterisation
+PTRL5022 Drilling Systems Design and Optimisation
+PTRL5024 Drilling Fluids and Cementing Techniques
+PTRL5100 Geomechanics A
+PTRL5102 Digital Core Analysis
+PTRL5107 Petrophysics
+PTRL5119 Geothermal Engineering
+PTRL6001 Reservoir Engineering 1
+PTRL6003 Well Pressure Testing
+PTRL6004 Numerical Reservoir Simulation
+PTRL6007 Reservoir Engineering 2
+PTRL6009 Well Drilling Equipment and Operations
+PTRL6012 Drilling Mud - Formulation, Selection and Maintenance
+PTRL6016 Well Completions and Stimulation
+PTRL6021 Reservoir Characterisation
+PTRL6025 Well Control and Blowout Prevention
+PTRL6027 Casing Design and Cementing
+PTRL6028 Practical Aspects of Well Planning and Drilling Cost Estimates
+PTRL6029 Directional Horizontal and Multilateral Drilling
+PTRL6032 Coal Seam Gas Engineering
+PTRL6107 Petrophysics
+PTRL9100 Petroleum Design Practice
+REST0001 Property Performance Analysis
+REST0004 Property Investment and Finance
+REST0005 Property Valuation
+REST0006 Property Development and Feasibility Analysis
+REST0007 Asset and Facilities Management
+REST0010 Property Industry Application
+REST0018 Research Project
+REST0019 Real Property Law
+RISK5001 Fundamentals of Risk and Risk Management
+RISK5002 Risk Analytics
+RISK5003 Risk Decision Analytics
+RISK5005 Climate Change and Business Risk Management
+RISK5009 Risk Management Strategies
+SAHT6700 World Biennales: Field Trip
+SAHT9110 Australian Arts Ecology
+SAHT9112 Art Writing and Publishing
+SAHT9113 Cultural Heritage, Ethics & the Law
+SAHT9117 Contemporary Curating: Theories and Practices
+SAHT9118 Capstone Project
+SAHT9122 Audience Engagement
+SAHT9124 Cultural Management and Policy
+SAHT9131 Visual and Museum Cultures of the Asia Pacific
+SAHT9138 Global Contemporary Art
+SAHT9201 Conservation, Registration and Handling
+SAHT9204 Histories of Contemporary Art
+SAHT9212 Aboriginal and Torres Strait Islander Art
+SAHT9310 Exhibiting Cultures
+SAHT9311 Curatorial Studio: Social Space
+SAHT9312 Curatorial Studio: Site and Situation
+SART9744 Fine Arts Field Trip
+SCIF7000 Advanced Communication Skills in Science
+SDES9758 Special Project
+SOCF5102 Selected Practice Frameworks
+SOCF5103 Research Issues in Counselling Social Work
+SOCF5104 Counselling Practice
+SOCF5108 Therapeutic Contexts and Relationships
+SOCF5109 Family Inclusive Practice
+SOCF5110 Professional Practice Research Project
+SOCF5112 Complex Practice Issues
+SOCW7851 Community Development
+SOCW7852 Politics of International Aid
+SOCW7855 Rights-Based Project Design and Evaluation
+SOCW7857 Refugees and Forced Migration
+SOLA3010 Low Energy Buildings and Photovoltaics
+SOLA3020 Photovoltaic Technology and Manufacturing
+SOLA3507 Solar Cells
+SOLA4012 Photovoltaic Systems Design
+SOLA5050 Renewable Energy Policy
+SOLA5051 Life Cycle Assessment
+SOLA5052 Bioenergy and Renewable Fuels
+SOLA5053 Wind Energy Converters
+SOLA5056 Sustainable Energy for Developing Countries
+SOLA5057 Energy Efficiency
+SOLA9001 Photovoltaics
+SOLA9101 Advanced Photovoltaics
+SOLA9102 Advanced Solar Cell Characterisation
+SOLA9103 Renewable Energy System Modelling & Analysis
+SOLA9104 Hybrid Renewable Energy Systems
+SOLA9105 Renewable Energy System Design
+SOLA9120 Advanced Photovoltaic Manufacturing
+SOLA9451 Masters Project A
+SOLA9452 Masters Project B
+SOLA9453 Masters Project C
+SOLA9915 Project Report
+SRAP5001 Policy Analysis
+SRAP5004 Policy, Accountability and Governance
+SRAP5018 Power, Politics and Policy
+SRAP5019 Changing Social Policy
+SRAP5021 Policy, Advocacy and Activism in the Digital Age
+SRAP5025 Social Sciences Internship
+SRAP5101 Research Methods and Project Design
+SRAP5102 Research in the Real World
+SRAP5103 Research Report
+SRAP5106 Academic Writing in the Social Sciences
+SRAP5107 Research Project
+SUSD0001 Sustainable Development and the Urban Environment
+SUSD0002 Building Ecology and Life Cycle Thinking
+SUSD0003 Energy and the Built Environment
+SUSD0004 Sustainability and Habitability
+SUSD0007 Integrated Design Studio
+SUSD0009 Environmental Auditing
+SUSD0010 Managing the Sustainable Built Environment
+SUSD0015 Graduate Research Project
+SUSD0016 Sustainable Infrastructure
+SWCH9001 Basic Reproductive Physiology
+SWCH9002 Contraception
+SWCH9003 Clinical Reproductive Endocrinology
+SWCH9004 Clinical Reproductive Medicine 1
+SWCH9005 Clinical Reproductive Medicine 2
+SWCH9006 Laboratory Aspects of ART
+SWCH9007 Menopause
+SWCH9009 Ethics and Law In Reproductive Medicine
+SWCH9011 Reproductive, Perinatal Epidemiology and Biostatistics
+SWCH9012 The Impact of Infections on Reproductive Health
+SWCH9014 Antenatal Care
+SWCH9015 Child and Adolescent Gynaecology
+SWCH9016 Cancer in Women
+SWCH9017 Applied Reproductive Anatomy and Physiology
+SWCH9018 Male Fertility
+SWCH9019 Research Project in Reproductive or Women's Health
+SWCH9020 Common Presentations to Clinicians for Gynaecological Issues - Pelvic Pain and Abnormal Bleeding
+SWCH9021 Common Urogynaecological Conditions
+SWCH9031 Postnatal Care of the Mother and Her Baby
+SWCH9032 Perinatal Psychology
+TABL5501 Taxation of Commercial Transactions
+TABL5503 Advanced Corporate Tax
+TABL5505 Advanced Taxation of Trusts
+TABL5506 Tax Administration
+TABL5509 Tax Controversy
+TABL5510 Taxation and Regulation of Superannuation
+TABL5511 Legal Foundations of Business
+TABL5512 Legal Foundations for Accountants
+TABL5523 GST and Indirect Taxes
+TABL5527 Taxation Strategies in Financial Planning
+TABL5537 Tax Treaties and Multilateral Obligations
+TABL5541 Corporations and Business Associations Law
+TABL5543 Business and Company Law
+TABL5544 Comparative Tax Systems
+TABL5545 Principles of Regulation, Compliance and Enforcement
+TABL5546 Introduction to RegTech in Compliance and Enforcement
+TABL5547 Building Effective Compliance Systems
+TABL5548 Regulatory Investigations and Enforcement
+TABL5550 Transfer Pricing and International Tax Controversy
+TABL5551 Taxation Law
+TABL5559 Australian Taxation Law
+TABL5562 Business Law in a Global Economy
+TABL5575 Tax Policy
+TABL5580 Contemporary Issues in Taxation
+TABL5582 Taxation of Commercial Structures
+TABL5583 International Business Taxation
+TABL5585 Special Topic in Taxation
+TABL5805 Research Methods in Taxation and Business Law
+TABL5933 UNSW Tax and Business Advisory Clinic
+TELE4642 Network Performance
+TELE4651 Wireless Communication Technologies
+TELE4652 Mobile and Satellite Communications Systems
+TELE4653 Digital Modulation and Coding
+TELE9751 Switching Systems Architecture
+TELE9752 Network Operations and Control
+TELE9753 Advanced Wireless Communications
+TELE9754 Coding and Information Theory
+TELE9755 Microwave Circuits, Theory and Techniques
+TELE9756 Advanced Networking
+TELE9757 Quantum Communications
+TELE9781 Special Topics in Telecommunications 1
+TELE9782 Special Topics in Telecommunications 2
+UDES0001 Urban Design Studio 1
+UDES0002 Urban Design Studio 2
+UDES0003 Urban Design Studio 3
+UDES0004 History and Theory of Urban Development and Design
+UDES0006 Case Studies in Urban Development and Design
+UDES0008 Planning and Urban Development
+UDES0009 Urban Landscape and Heritage
+UDES0010 Communication in Urban Design
+UDES0011 Urban Design Research Project
+UDES0012 Elements of Urban Design
+UDES0013 Urban Design Graphics
+VISN5511 The Visual System, Impairments and Implications
+VISN5512 Sensory Processes and Movement
+VISN5513 Orientation and Mobility Foundations: Disability, Diversity and Inclusion
+VISN5521 Orientation and Mobility Techniques
+VISN5522 Vision Rehabilitation 
+VISN5523 Orientation and Mobility in Practice
+VISN5531 Development and Ageing: Implications for Orientation and Mobility 
+YCAN8000 US Cyber Policy and Information Security
+YENG5581 Advanced Earth Systems Engineering and Management
+YENG5582 Industrial Ecology, Sustainable Engineering, and Corporate Responsibility
+YENG9741 Nuclear Power Engineering
+YENG9742 Nuclear Reactor Theory and Design
+YMED5000 Integrated Emergency Management
+YMED5001 Homeland Security
+YMED5002 Hazards Governance
+YMED5003 Public Management
+YMED5004 IT in Emergency Management
+YMED5005 Community Resilience and Recovery
+YMED5006 Interoperability for Emergency Managers
+YMED5007 Critical Incident Stress Management
+YMED5008 Applied Data Analysis in Criminal Justice
+YMED5009 Program Evaluation for Emergency Management and Homeland Security
+YMED5010 GIS and Analysis
+YMED5106 Fundamentals of Health Informatics
+YMED5107 Health Informatics Database Modelling and Applications
+YMED9130 Pharmaceutical Global Regulatory Affairs Leadership
+ZBUS8101 Strategic Management
+ZBUS8102 Organisational Behaviour
+ZBUS8103 Strategic Human Resources
+ZBUS8105 Finance and Investment Appraisal
+ZBUS8108 Accounting for Management Decisions
+ZBUS8109 Business Law
+ZBUS8113 Public Service Implementation
+ZBUS8114 Leadership of Safe and Healthy Work
+ZBUS8115 Public Service Performance and Evaluation
+ZBUS8116 Entrepreneurship and Innovation
+ZBUS8147 The Business of Managing Projects
+ZBUS8148 Economic World View
+ZBUS8149 Finance for Decision-Making
+ZBUS8201 Leadership
+ZBUS8203 Change Management
+ZBUS8204 Marketing
+ZBUS8205 Business Ethics
+ZBUS8208 Humanitarian Logistics
+ZBUS8210 Critical Analysis in Business
+ZBUS8302 Logistics Management
+ZBUS8303 Strategic Procurement and Outsourcing
+ZBUS8306 Sustaining Capability (Capability and Technology Management College)
+ZBUS8310 Commercial Skills in the Public Sector
+ZBUS8312 Logistics Intelligence and Big Data Analysis
+ZBUS8313 Risk Management in Logistics
+ZBUS8314 People and Systems
+ZBUS8315 Driving Performance
+ZBUS8316 Developing Organisational Capability
+ZBUS8317 Workforce Planning
+ZBUS8318 Cross Cultural Management
+ZBUS8320 Strategic Logistics Management
+ZBUS8321 Managing Diversity
+ZBUS8501 Research Project - Business
+ZBUS8502 Research Project - Business
+ZBUS8503 Workforce Planning Research
+ZBUS8911 Asset Management
+ZBUS8912 Delivering Capability
+ZBUS8913 Leadership, Change and Innovation
+ZEIT8001 Special Elective 1: Project Management
+ZEIT8007 Space Operations
+ZEIT8008 Space Systems Design
+ZEIT8009 Global Navigation Satellite Systems (GNSS)
+ZEIT8010 Marine Technology
+ZEIT8011 Space Systems Technology
+ZEIT8012 Space Systems Engineering Management
+ZEIT8015 Cyber Operations
+ZEIT8016 Capability Development
+ZEIT8017 Cyber Crime and Cyber Security
+ZEIT8018 Cyber Resilience: Management Governance and Acquisition
+ZEIT8019 Intrusion Analysis and Response
+ZEIT8020 Cyber Offence: Threats and Opportunities
+ZEIT8021 Information Assurance and Security
+ZEIT8023 Wireless, Mobile and Internet of Things Security
+ZEIT8024 Software Security Lifecycle
+ZEIT8025 Reverse Engineering
+ZEIT8026 Cyber Defence: Network Security Operations
+ZEIT8027 Critical Infrastructure and Control System Security
+ZEIT8028 Digital Forensics
+ZEIT8029 Mobile Network and Memory Forensics
+ZEIT8030 Big Data and Decision Analytics for Security
+ZEIT8031 Reliability Engineering Fundamentals
+ZEIT8032 Information Assurance Principles
+ZEIT8034 Advanced Test and Evaluation Techniques
+ZEIT8035 Cyber Terrorism
+ZEIT8037 Cyber Security Risk Management
+ZEIT8039 Reliability Engineering Assurance
+ZEIT8042 Introduction to Exploit Development
+ZEIT8043 Cyber and the Law
+ZEIT8045 Computer Network Operations Knowledge
+ZEIT8046 Computer Network Operations Project
+ZEIT8047 Wireless, Mobile & Internet of Things Knowledge
+ZEIT8048 Wireless, Mobile & Internet of Things Project
+ZEIT8049 Network Security Operations Knowledge
+ZEIT8050 Network Security Operations Project
+ZEIT8051 Digital Forensics Knowledge
+ZEIT8052 Digital Forensics Project
+ZEIT8115 Information Operations
+ZEIT8119 Internetworking
+ZEIT8136 Software Project Management
+ZEIT8152 Reliability Program Management
+ZEIT8200 Model Based Systems Engineering
+ZEIT8205 Fundamentals of Surveillance Technologies
+ZEIT8213 Communications and Information Systems
+ZEIT8219 Satellite Communications
+ZEIT8220 Space Propulsion
+ZEIT8221 Spaceborne Imaging Technology
+ZEIT8226 Systems Engineering Practice
+ZEIT8229 Non-Communications Electronic Warfare
+ZEIT8230 Requirements Practice
+ZEIT8231 Test and Evaluation
+ZEIT8233 Explosive Ordnance Technology
+ZEIT8236 System Safety Engineering
+ZEIT8238 Systems Engineering Knowledge
+ZEIT8239 Systems Engineering Project
+ZEIT8240 Requirements Practice Knowledge
+ZEIT8241 Requirements Practice Project
+ZEIT8242 Satellite Communications Knowledge
+ZEIT8243 Satellite Communications Project
+ZEIT8244 Systems Thinking and Modelling Knowledge
+ZEIT8245 Systems Thinking and Modelling Project
+ZEIT8246 Test and Evaluation Knowledge
+ZEIT8247 Test and Evaluation Project
+ZEIT8260 Project Report - Cyber Security (Part Time)
+ZEIT8261 Project Report - Cyber Security (Full Time)
+ZEIT8270 Project Report - Decision Analytics Part-Time
+ZEIT8271 Project Report - Decision Analytics Full-Time
+ZEIT8280 Project - Project Management F/T
+ZEIT8281 Project - Project Management P/T
+ZEIT8296 Project Report - Systems Engineering Part Time
+ZEIT8297 Project Report - Systems Engineering Full Time
+ZEIT8298 Project Report - Engineering Science Part-Time
+ZEIT8302 Project Administration
+ZEIT8303 Project Management Body of Knowledge
+ZEIT8305 Systems Thinking and Modelling
+ZEIT8307 System Dynamics Modelling
+ZEIT8310 Project Schedule and Budget Control
+ZEIT8402 Evidence-based Decision Making
+ZEIT8403 Capability Option Analysis
+ZEIT8404 Decision Making Analytics
+ZEIT8412 Simulation
+ZEIT8413 Simulation Applications
+ZEIT8416 Research Practices for Operations Analysis
+ZEIT8503 Aerospace Vehicle Technologies
+ZEIT8506 Weapons Engineering
+ZEIT8510 Explosive Ordnance Design and Systems
+ZEIT8511 Testing and Evaluation of Explosive Ordnance
+ZEIT8512 Explosive Ordnance Effects
+ZEIT8513 Rocket Motors, Propellants, and Pyrotechnics
+ZEIT8601 Applied Machine Learning
+ZEIT8704 Vehicles and Mobility
+ZEIT8900 Professional Practice
+ZHSS8001 Professional Practice
+ZHSS8102 American Empire
+ZHSS8106 War and Memory
+ZHSS8112 Occasional Elective: English
+ZHSS8125 Strategic Communication
+ZHSS8201 Contemporary Warfare
+ZHSS8203 Foundations of Modern Strategy
+ZHSS8204 Modern Naval History and Strategy
+ZHSS8210 Genocide: Perception and Intervention
+ZHSS8220 Fighting the Second World War
+ZHSS8221 The Development of the Art of War: A Survey
+ZHSS8223 The First World War 1914-1919
+ZHSS8224 Small Wars of Empire: Colonial Warfare from 1700
+ZHSS8225 Australian Military History: An Introduction
+ZHSS8226 The Vietnam Wars: A Thirty Year Conflict
+ZHSS8227 Civil Wars: Societies in Conflict
+ZHSS8230 Russian Military History
+ZHSS8231 The History of Special Operations
+ZHSS8235 Ten American Conflicts: The Origins of US Military History
+ZHSS8237 The Cold War
+ZHSS8238 Australia's Relations with Asia
+ZHSS8401 Research Thesis A
+ZHSS8402 Research Thesis B
+ZHSS8403 Global Security
+ZHSS8409 Asia-Pacific Security: The Dynamics of Change
+ZHSS8410 Australian Defence Policy: Concepts and Challenges
+ZHSS8412 International Peacekeeping Operations
+ZHSS8417 Air Power in the 21st Century: Strategic Issues
+ZHSS8430 China's Security Policy and Military Modernisation
+ZHSS8435 Contemporary Strategy
+ZHSS8437 Global Justice and World Politics
+ZHSS8441 Cyber-Security and World Politics
+ZHSS8442 Conflict Transformation
+ZHSS8452 Weapons of Mass Destruction and Global Security
+ZHSS8453 Culture and Conflict
+ZHSS8455 Australian Cyber Diplomacy
+ZHSS8456 Australia and Cyber War
+ZHSS8457 Cyber Security in Asia
+ZHSS8458 Cyber Policy in China
+ZHSS8459 Special Operations: Theory and Strategic Utility
+ZHSS8460 Power and Australian Government Policy
+ZHSS8461 GRIM Threats (Guerrilla, Revolutionary, Insurgent and Militia) and Irregular Warfare
+ZHSS8462 Ethics in Special, Complex and Irregular Military Operations
+ZHSS8463 International Law in Global Politics
+ZHSS8464 Cyberspace, National Security and Law
+ZHSS8467 Military Game Changers in 21st Century Warfare
+ZHSS8501 Principles of Public Leadership
+ZHSS8503 Moral Leadership in Complex Military Operations
+ZHSS8504 Space Cooperation, Conflict and Competition
+ZINT8105 Academic Practice: Critical Reading and Writing
+ZINT8301 Lethality and Survivability
+ZPEM8101 Energetic Materials, Material Properties and Manufacture
+ZPEM8102 Environment, Safety and the Regulatory Framework
+ZPEM8103 Explosive Ordnance Research Project
+ZPEM8104 Counter IED and Forensic Investigation of Explosives
+ZPEM8207 Economic Geography
+ZPEM8208 Human Factors and the Technological Interface
+ZPEM8209 Development Geography
+ZPEM8210 Institutional Subjectivity and Ethics
+ZPEM8211 Researching Behaviour: Creative Methodologies in a Digital Age
+ZPEM8310 Understanding Social-Technical Systems: Ideas, Spaces and Cultures
+ZPEM8311 Data Analysis and Applications
+ZPEM8803 Science Special Topic 1
+ZPEM8804 Science Special Topic 2
+ZPEM8805 Science Special Topic 3
+ZSPS8101 Adaptive Leadership
+ZSPS9000 Foundations of Organisational Cyber Security 
+ZSPS9001 Cyber Security Governance, Risk and Compliance
+ZSPS9002 Cyber Security Data Governance and Privacy
+ZSPS9003 Cyber Security Leadership and Strategy
+ZSPS9004 Governance in Policy Systems
+ZSPS9005 The Business of Managing Projects
+ZSPS9007 Assessing Data for Evidence-based Policy
+ZZBU5606 Policy evaluation methods
+ZZBU5611 Strategic Decision Making
+ZZBU6001 Managing Yourself and Others
+ZZBU6002 Financial Management
+ZZBU6003 Business Economics
+ZZBU6004 Foundations of Marketing
+ZZBU6005 Law, Regulation and Ethics
+ZZBU6006 Strategies for Disruption
+ZZBU6007 Career Navigator
+ZZBU6008 Strategic Consulting Project
+ZZBU6101 Managing with Digital Technology  
+ZZBU6103 Entrepreneurship and Innovation 
+ZZBU6401 Human Resource Policies and Practices
+ZZBU6402 Employee Wellbeing and Engagement
+ZZBU6403 Sustainability and Human Resources
+ZZBU6404 Human Resources Analytics
+ZZBU6405 Attracting, Evaluating and Retaining Talent
+ZZBU6406 Diversity, Equity and Inclusion
+ZZBU6407 Human Resource Information Systems
+ZZBU6408 Managing Pay and Performance
+ZZBU6409 Change Management
+ZZBU6410 Human Resource Strategies
+ZZBU6411 Organisational Development
+ZZBU6412 Managing People and Organisations
+ZZBU6413 Leadership Development
+ZZBU6414 Introduction to Employment Law
+ZZBU6501 Introductory Data Analysis
+ZZBU6502 Analytics and Business
+ZZBU6503 Managing People, Analytics and Change
+ZZBU6505 Data and Ethics
+ZZBU6507 Data Visualisation and Communication
+ZZBU6508 Analytics and Consulting
+ZZBU6509 Financial Modelling
+ZZBU6511 Predictive Analytics
+ZZBU6512 Foundations of Marketing Analytics
+ZZBU6513 Social Media & Digital Analytics
+ZZBU6514 Managing Customer Analytics
+ZZBU6515 Marketing Analytics Capstone
+ZZBU6516 Database Management
+ZZBU6601 General Analytics Capstone
+ZZBU8501 FinTech Ecosystem and Industry Insights
+ZZBU8502 Decentralised Finance
+ZZBU8503 RegTech Applications for Banking and Finance
+ZZBU8504 Technical Tools for FinTech
+ZZBU8505 Problem-Solving Methods for FinTech
+ZZBU8506 Data Management for FinTech
+ZZBU8507 Robo-Advisory and Portfolio Optimisation
+ZZBU8508 Tech Disruption in Payments and Transfers
+ZZBU8509 Tech Disruption in Funding and Lending
+ZZBU8510 InsurTech Applications
+ZZBU8601 Managing a FinTech Startup
+ZZBU8602 Applied FinTech Project
+ZZBU8701 Portfolio Management
+ZZBU8702 Corporate Finance
+ZZBU8703 International Finance
+ZZBU8704 Private Equity and Venture Capital
+ZZBU8705 Equity Valuation
+ZZBU8706 Fixed Income
+ZZBU8707 Derivatives
+ZZBU8708 Ethics and Professional Standards
+ZZCA6510 Decision Making in Analytics
+ZZCA9202 Data Security and Privacy
+ZZCA9204 Cybersecurity Ethics
+ZZCA9205 Cyber Operations
+ZZCA9206 Cyber Risk and Resilience
+ZZCA9208 Management and Leadership Capstone Project
+ZZCA9211 Digital Forensics
+ZZCA9221 Cyber Management and Governance
+ZZCA9222 Cyber Threats and Crime
+ZZEN9021 Principles of Programming
+ZZEN9201 Foundations of Cyber Security
+ZZEN9203 Principles of Security Engineering
+ZZEN9209 Security Engineering Capstone Project
+ZZEN9212 Advanced Penetration Testing
+ZZEN9213 Penetration Testing​
+ZZEN9214 Cloud Security
+ZZEN9215 Reverse Engineering
+ZZEN9216 Fundamentals of Coding: C and Assembler
+ZZEN9217 Operating System Fundamentals for Security
+ZZEN9311 Database Systems
+ZZEN9313 Big Data Management
+ZZEN9444 Neural Networks, Deep Learning
+ZZLJ9223 Cyber and the Law
+ZZSC5165 Optimisation for Data Scientists
+ZZSC5806 Regression Analysis for Data Scientists
+ZZSC5836 Data Mining and Machine Learning
+ZZSC5855 Multivariate Analysis for Data Scientists
+ZZSC5905 Statistical Inference for Data Scientists
+ZZSC5960 Bayesian Inference and Computation for Data Scientists
+ZZSC9001 Foundations of Data Science
+ZZSC9020 Data Science Project
